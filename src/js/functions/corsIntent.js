@@ -1,8 +1,27 @@
+//cors intent
+
+
 export default function getFlightData(flight) {
 
+  var util = require('util');
   var restclient = require('restler');
 
 
+
+  /*
+    //added myself:
+    const cors = require('cors');
+    const express = require('express');
+    //const fetch = require('node-fetch');
+
+    const PORT = 5000;
+    const app = express();
+
+    app.use(cors());
+    const corsOptions = {
+        origin: "http://localhost:3000"
+    };
+  */
 
 
 
@@ -14,16 +33,22 @@ export default function getFlightData(flight) {
   var i = 0;
 
 
+    /*
+    app.get('/getData', cors(corsOptions), async (req, res) => {
+      */
 
     restclient.get(fxml_url + 'FlightInfoStatus', {
         username: username,
         password: apiKey,
         query: {ident: flight, howMany: 1, offset: 2}
     }).on('success', function(result, response) {
+        //util.puts('Aircraft en route to EHAM:');
         console.log('Flight ' + flight + ' :');
+        //util.puts(util.inspect(result, true, null));
         var flights = result.FlightInfoStatusResult.flights;
         for (i in flights) {
           var flight = flights[i];
+          //util.puts(util.inspect(flight));
           console.log(flight.ident + " " + flight.origin + ' - ' + flight.destination + " " + flight.aircrafttype + " " + flight.tailnumber);
           console.log(flight.actual_blockout_time.date + " " + flight.actual_blockout_time.time + " - " + flight.actual_blockin_time.time);
 
@@ -62,6 +87,12 @@ export default function getFlightData(flight) {
           return results;
       }
     });
+
+    /*});
+
+    app.listen(PORT, () => {
+        console.log(`Example app listening at http://localhost:${PORT}`);
+    });*/
 
 
 }
