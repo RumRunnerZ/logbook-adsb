@@ -5,485 +5,7 @@
       "version": "2.0",
       "vevent": [
         {
-          "dtstamp": "20210512T144604Z",
-          "uid": "20210213T035500Z-20210213T042500Z-Pickup",
-          "summary": "Taxi",
-          "dtstart": "20210213T035500Z",
-          "dtend": "20210213T042500Z",
-          "transp": "TRANSPARENT"
-        },
-        {
-          "dtstamp": "20210512T144604Z",
-          "uid": "20210213T042500Z-20210213T073500Z-FLD",
-          "summary": "Flight Day",
-          "dtstart": "20210213T042500Z",
-          "dtend": "20210213T073500Z",
-          "transp": "TRANSPARENT",
-          "location": "Margin FDP: 09:35\\nActual FDP: 02:40\\nMax FDP: 12:15\\nMargin CAO DP: 06:50\\n\\nGeen alcohol na: 19:25 (NL)"
-        },
-        {
-          "dtstamp": "20210512T144604Z",
-          "uid": "20210213T051000Z-20210213T065000Z-KL1184",
-          "summary": "KL1184 BGO-AMS",
-          "dtstart": "20210213T051000Z",
-          "dtend": "20210213T065000Z",
-          "location": " ",
-          "transp": "TRANSPARENT"
-        },
-        {
-          "dtstamp": "20210512T144604Z",
-          "uid": "20210214T043000Z-20210214T035900Z-LPFLC",
-          "summary": "LPFLC",
-          "dtstart": "20210214",
-          "dtend": "20210215",
-          "description": "",
-          "transp": "TRANSPARENT"
-        },
-        {
-          "dtstamp": "20210512T144604Z",
-          "uid": "20210215T043000Z-20210215T035900Z-LVEC",
-          "summary": "LVEC",
-          "dtstart": "20210215",
-          "dtend": "20210216",
-          "description": "",
-          "transp": "TRANSPARENT"
-        },
-        {
-          "dtstamp": "20210512T144604Z",
-          "uid": "20210216T043000Z-20210216T035900Z-LVEC",
-          "summary": "LVEC",
-          "dtstart": "20210216",
-          "dtend": "20210217",
-          "description": "",
-          "transp": "TRANSPARENT"
-        },
-        {
-          "dtstamp": "20210512T144604Z",
-          "uid": "20210217T043000Z-20210217T035900Z-LVEC",
-          "summary": "LVEC",
-          "dtstart": "20210217",
-          "dtend": "20210218",
-          "description": "",
-          "transp": "TRANSPARENT"
-        },
-        {
-          "dtstamp": "20210512T144604Z",
-          "uid": "20210218T043000Z-20210218T035900Z-LVEC",
-          "summary": "LVEC",
-          "dtstart": "20210218",
-          "dtend": "20210219",
-          "description": "",
-          "transp": "TRANSPARENT"
-        },
-        {
-          "dtstamp": "20210512T144604Z",
-          "uid": "20210219T043000Z-20210219T035900Z-LVEC",
-          "summary": "LVEC",
-          "dtstart": "20210219",
-          "dtend": "20210220",
-          "description": "",
-          "transp": "TRANSPARENT"
-        },
-        {
-          "dtstamp": "20210512T144604Z",
-          "uid": "20210220T112000Z-20210220T192000Z-FLD",
-          "summary": "Flight Day",
-          "dtstart": "20210220T112000Z",
-          "dtend": "20210220T192000Z",
-          "transp": "TRANSPARENT",
-          "location": "Margin FDP: 05:30\\nActual FDP: 07:30\\nMax FDP: 13:00\\nMargin CAO DP: 04:00\\n\\nGeen alcohol na: 02:20 (NL)"
-        },
-        {
-          "dtstamp": "20210512T144604Z",
-          "uid": "20210220T122500Z-20210220T150500Z-KL1509",
-          "summary": "KL1509 AMS-ALC",
-          "dtstart": "20210220T122500Z",
-          "dtend": "20210220T150500Z",
-          "location": " ",
-          "transp": "TRANSPARENT"
-        },
-        {
-          "dtstamp": "20210512T144604Z",
-          "uid": "20210220T155500Z-20210220T185000Z-KL1510",
-          "summary": "KL1510 ALC-AMS",
-          "dtstart": "20210220T155500Z",
-          "dtend": "20210220T185000Z",
-          "location": " ",
-          "transp": "TRANSPARENT"
-        },
-        {
-          "dtstamp": "20210512T144604Z",
-          "uid": "20210221T090000Z-20210221T150000Z-WTV",
-          "summary": "WTV",
-          "dtstart": "20210221",
-          "dtend": "20210222",
-          "description": "",
-          "transp": "TRANSPARENT"
-        },
-        {
-          "dtstamp": "20210512T144604Z",
-          "uid": "20210222T104500Z-20210222T124500Z-MMCS",
-          "summary": "MMCS",
-          "dtstart": "20210222T104500Z",
-          "dtend": "20210222T124500Z",
-          "description": "",
-          "transp": "TRANSPARENT"
-        },
-        {
-          "dtstamp": "20210512T144604Z",
-          "uid": "20210223T043000Z-20210223T035900Z-LVEC",
-          "summary": "LVEC",
-          "dtstart": "20210223",
-          "dtend": "20210224",
-          "description": "",
-          "transp": "TRANSPARENT"
-        },
-        {
-          "dtstamp": "20210512T144604Z",
-          "uid": "20210224T043000Z-20210224T035900Z-LVEC",
-          "summary": "LVEC",
-          "dtstart": "20210224",
-          "dtend": "20210225",
-          "description": "",
-          "transp": "TRANSPARENT"
-        },
-        {
-          "dtstamp": "20210512T144604Z",
-          "uid": "20210225T043000Z-20210225T035900Z-LVEC",
-          "summary": "LVEC",
-          "dtstart": "20210225",
-          "dtend": "20210226",
-          "description": "",
-          "transp": "TRANSPARENT"
-        },
-        {
-          "dtstamp": "20210512T144604Z",
-          "uid": "20210226T072000Z-20210226T121500Z-FLD",
-          "summary": "Flight Day",
-          "dtstart": "20210226T072000Z",
-          "dtend": "20210226T121500Z",
-          "transp": "TRANSPARENT",
-          "location": "Margin FDP: 08:35\\nActual FDP: 04:25\\nMax FDP: 13:00\\nMargin CAO DP: 07:05\\n\\nGeen alcohol na: 22:20 (NL)"
-        },
-        {
-          "dtstamp": "20210512T144604Z",
-          "uid": "20210226T082500Z-20210226T094000Z-KL1985",
-          "summary": "KL1985 AMS-BSL",
-          "dtstart": "20210226T082500Z",
-          "dtend": "20210226T094000Z",
-          "location": " ",
-          "transp": "TRANSPARENT"
-        },
-        {
-          "dtstamp": "20210512T144604Z",
-          "uid": "20210226T101000Z-20210226T114500Z-KL1986",
-          "summary": "KL1986 BSL-AMS",
-          "dtstart": "20210226T101000Z",
-          "dtend": "20210226T114500Z",
-          "location": " ",
-          "transp": "TRANSPARENT"
-        },
-        {
-          "dtstamp": "20210512T144604Z",
-          "uid": "20210227T080000Z-20210227T124500Z-FLD",
-          "summary": "Flight Day",
-          "dtstart": "20210227T080000Z",
-          "dtend": "20210227T124500Z",
-          "transp": "TRANSPARENT",
-          "location": "Margin FDP: 08:45\\nActual FDP: 04:15\\nMax FDP: 13:00\\nMargin CAO DP: 07:15\\n\\nGeen alcohol na: 23:00 (NL)"
-        },
-        {
-          "dtstamp": "20210512T144604Z",
-          "uid": "20210227T090500Z-20210227T101500Z-KL1869",
-          "summary": "KL1869 AMS-STR",
-          "dtstart": "20210227T090500Z",
-          "dtend": "20210227T101500Z",
-          "location": " ",
-          "transp": "TRANSPARENT"
-        },
-        {
-          "dtstamp": "20210512T144604Z",
-          "uid": "20210227T104500Z-20210227T121500Z-KL1870",
-          "summary": "KL1870 STR-AMS",
-          "dtstart": "20210227T104500Z",
-          "dtend": "20210227T121500Z",
-          "location": " ",
-          "transp": "TRANSPARENT"
-        },
-        {
-          "dtstamp": "20210512T144604Z",
-          "uid": "20210228T120500Z-20210228T154500Z-FLD",
-          "summary": "Flight Day",
-          "dtstart": "20210228T120500Z",
-          "dtend": "20210228T154500Z",
-          "transp": "TRANSPARENT",
-          "location": "Margin FDP: 09:50\\nActual FDP: 03:10\\nMax FDP: 13:00\\nMargin CAO DP: 08:05\\n\\nGeen alcohol na: 03:05 (NL)"
-        },
-        {
-          "dtstamp": "20210512T144604Z",
-          "uid": "20210228T132500Z-20210228T151500Z-KL1147",
-          "summary": "KL1147 AMS-OSL",
-          "dtstart": "20210228T132500Z",
-          "dtend": "20210228T151500Z",
-          "location": " ",
-          "transp": "TRANSPARENT"
-        },
-        {
-          "dtstamp": "20210512T144604Z",
-          "uid": "20210228T154500Z-20210301T035900Z-Hotel",
-          "summary": "Hotel OSL",
-          "dtstart": "20210228T154500Z",
-          "dtend": "20210301T040000Z",
-          "url": "https://www.google.com/maps/search/?api=1&query=Clarion+Hotel+the+Hub%2C+Oslo",
-          "transp": "TRANSPARENT",
-          "location": "Margin FTL: 02:25\\nMargin CAO: 01:15\\n\\nLunch:       222.60 NOK (21.49 EUR)\\nDinner:      522.08 NOK (50.39 EUR)\\nSundries:  508.96 NOK (49.13 EUR)\\n\\n1 NOK = 0.09653 EUR (01-03-2021)\\n"
-        },
-        {
-          "dtstamp": "20210512T144604Z",
-          "uid": "20210301T071500Z-20210301T104000Z-FLD",
-          "summary": "Flight Day",
-          "dtstart": "20210301T071500Z",
-          "dtend": "20210301T104000Z",
-          "transp": "TRANSPARENT",
-          "location": "Margin FDP: 10:05\\nActual FDP: 02:55\\nMax FDP: 13:00\\nMargin CAO DP: 08:35\\n\\nGeen alcohol na: 22:15 (NL)"
-        },
-        {
-          "dtstamp": "20210512T144604Z",
-          "uid": "20210301T082000Z-20210301T101000Z-KL1993",
-          "summary": "KL1993 AMS-KRK",
-          "dtstart": "20210301T082000Z",
-          "dtend": "20210301T101000Z",
-          "location": " ",
-          "transp": "TRANSPARENT"
-        },
-        {
-          "dtstamp": "20210512T144604Z",
-          "uid": "20210301T104000Z-20210302T035400Z-Hotel",
-          "summary": "Hotel KRK",
-          "dtstart": "20210301T104000Z",
-          "dtend": "20210302T035500Z",
-          "url": "https://www.google.com/maps/search/?api=1&query=Park+Inn+Radisson%2C+Krakow",
-          "transp": "TRANSPARENT",
-          "location": "Margin FTL: 07:45\\nMargin CAO: 06:35\\n\\nLunch:       39.44 PLN (8.70 EUR)\\nDinner:      88.41 PLN (19.51 EUR)\\nSundries:  90.68 PLN (20.01 EUR)\\n\\n1 PLN = 0.22064 EUR (02-03-2021)\\n"
-        },
-        {
-          "dtstamp": "20210512T144604Z",
-          "uid": "20210302T035500Z-20210302T041500Z-Pickup",
-          "summary": "Taxi",
-          "dtstart": "20210302T035500Z",
-          "dtend": "20210302T041500Z",
-          "transp": "TRANSPARENT"
-        },
-        {
-          "dtstamp": "20210512T144604Z",
-          "uid": "20210302T041500Z-20210302T074500Z-FLD",
-          "summary": "Flight Day",
-          "dtstart": "20210302T041500Z",
-          "dtend": "20210302T074500Z",
-          "transp": "TRANSPARENT",
-          "location": "Margin FDP: 09:15\\nActual FDP: 03:00\\nMax FDP: 12:15\\nMargin CAO DP: 06:30\\n\\nGeen alcohol na: 19:15 (NL)"
-        },
-        {
-          "dtstamp": "20210512T144604Z",
-          "uid": "20210302T050000Z-20210302T070000Z-KL1992",
-          "summary": "KL1992 KRK-AMS",
-          "dtstart": "20210302T050000Z",
-          "dtend": "20210302T070000Z",
-          "location": " ",
-          "transp": "TRANSPARENT"
-        },
-        {
-          "dtstamp": "20210512T144604Z",
-          "uid": "20210303T043000Z-20210303T035900Z-LVEC",
-          "summary": "LVEC",
-          "dtstart": "20210303",
-          "dtend": "20210304",
-          "description": "",
-          "transp": "TRANSPARENT"
-        },
-        {
-          "dtstamp": "20210512T144604Z",
-          "uid": "20210304T043000Z-20210304T035900Z-LVEC",
-          "summary": "LVEC",
-          "dtstart": "20210304",
-          "dtend": "20210305",
-          "description": "",
-          "transp": "TRANSPARENT"
-        },
-        {
-          "dtstamp": "20210512T144604Z",
-          "uid": "20210305T043000Z-20210305T035900Z-LVEC",
-          "summary": "LVEC",
-          "dtstart": "20210305",
-          "dtend": "20210306",
-          "description": "",
-          "transp": "TRANSPARENT"
-        },
-        {
-          "dtstamp": "20210512T144604Z",
-          "uid": "20210306T043000Z-20210306T035900Z-LVEC",
-          "summary": "LVEC",
-          "dtstart": "20210306",
-          "dtend": "20210307",
-          "description": "",
-          "transp": "TRANSPARENT"
-        },
-        {
-          "dtstamp": "20210512T144604Z",
-          "uid": "20210307T043000Z-20210307T035900Z-LVEC",
-          "summary": "LVEC",
-          "dtstart": "20210307",
-          "dtend": "20210308",
-          "description": "",
-          "transp": "TRANSPARENT"
-        },
-        {
-          "dtstamp": "20210512T144604Z",
-          "uid": "20210308T075000Z-20210308T124000Z-FLD",
-          "summary": "Flight Day",
-          "dtstart": "20210308T075000Z",
-          "dtend": "20210308T124000Z",
-          "transp": "TRANSPARENT",
-          "location": "Margin FDP: 08:40\\nActual FDP: 04:20\\nMax FDP: 13:00\\nMargin CAO DP: 07:10\\n\\nGeen alcohol na: 22:50 (NL)"
-        },
-        {
-          "dtstamp": "20210512T144604Z",
-          "uid": "20210308T085500Z-20210308T100500Z-KL1765",
-          "summary": "KL1765 AMS-FRA",
-          "dtstart": "20210308T085500Z",
-          "dtend": "20210308T100500Z",
-          "location": " ",
-          "transp": "TRANSPARENT"
-        },
-        {
-          "dtstamp": "20210512T144604Z",
-          "uid": "20210308T105000Z-20210308T121000Z-KL1766",
-          "summary": "KL1766 FRA-AMS",
-          "dtstart": "20210308T105000Z",
-          "dtend": "20210308T121000Z",
-          "location": " ",
-          "transp": "TRANSPARENT"
-        },
-        {
-          "dtstamp": "20210512T144604Z",
-          "uid": "20210309T043000Z-20210309T035900Z-LVEC",
-          "summary": "LVEC",
-          "dtstart": "20210309",
-          "dtend": "20210310",
-          "description": "",
-          "transp": "TRANSPARENT"
-        },
-        {
-          "dtstamp": "20210512T144604Z",
-          "uid": "20210310T043000Z-20210310T035900Z-LVEC",
-          "summary": "LVEC",
-          "dtstart": "20210310",
-          "dtend": "20210311",
-          "description": "",
-          "transp": "TRANSPARENT"
-        },
-        {
-          "dtstamp": "20210512T144604Z",
-          "uid": "20210311T043000Z-20210311T035900Z-LVEC",
-          "summary": "LVEC",
-          "dtstart": "20210311",
-          "dtend": "20210312",
-          "description": "",
-          "transp": "TRANSPARENT"
-        },
-        {
-          "dtstamp": "20210512T144604Z",
-          "uid": "20210312T043000Z-20210312T035900Z-LVEC",
-          "summary": "LVEC",
-          "dtstart": "20210312",
-          "dtend": "20210313",
-          "description": "",
-          "transp": "TRANSPARENT"
-        },
-        {
-          "dtstamp": "20210512T144604Z",
-          "uid": "20210313T072500Z-20210313T130500Z-FLD",
-          "summary": "Flight Day",
-          "dtstart": "20210313T072500Z",
-          "dtend": "20210313T130500Z",
-          "transp": "TRANSPARENT",
-          "location": "Margin FDP: 07:50\\nActual FDP: 05:10\\nMax FDP: 13:00\\nMargin CAO DP: 06:20\\n\\nGeen alcohol na: 22:25 (NL)"
-        },
-        {
-          "dtstamp": "20210512T144604Z",
-          "uid": "20210313T083000Z-20210313T102000Z-KL1085",
-          "summary": "KL1085 AMS-ORK",
-          "dtstart": "20210313T083000Z",
-          "dtend": "20210313T102000Z",
-          "location": " ",
-          "transp": "TRANSPARENT"
-        },
-        {
-          "dtstamp": "20210512T144604Z",
-          "uid": "20210313T105000Z-20210313T123500Z-KL1086",
-          "summary": "KL1086 ORK-AMS",
-          "dtstart": "20210313T105000Z",
-          "dtend": "20210313T123500Z",
-          "location": " ",
-          "transp": "TRANSPARENT"
-        },
-        {
-          "dtstamp": "20210512T144604Z",
-          "uid": "20210314T043000Z-20210314T035900Z-LVEC",
-          "summary": "LVEC",
-          "dtstart": "20210314",
-          "dtend": "20210315",
-          "description": "",
-          "transp": "TRANSPARENT"
-        },
-        {
-          "dtstamp": "20210512T144604Z",
-          "uid": "20210315T043000Z-20210315T035900Z-LVEC",
-          "summary": "LVEC",
-          "dtstart": "20210315",
-          "dtend": "20210316",
-          "description": "",
-          "transp": "TRANSPARENT"
-        },
-        {
-          "dtstamp": "20210512T144604Z",
-          "uid": "20210316T043000Z-20210316T035900Z-LVEC",
-          "summary": "LVEC",
-          "dtstart": "20210316",
-          "dtend": "20210317",
-          "description": "",
-          "transp": "TRANSPARENT"
-        },
-        {
-          "dtstamp": "20210512T144604Z",
-          "uid": "20210317T181500Z-20210317T213000Z-FLD",
-          "summary": "Flight Day",
-          "dtstart": "20210317T181500Z",
-          "dtend": "20210317T213000Z",
-          "transp": "TRANSPARENT",
-          "location": "Margin FDP: 08:15\\nActual FDP: 02:45\\nMax FDP: 11:00\\nMargin CAO DP: 05:45\\n\\nGeen alcohol na: 09:15 (NL)"
-        },
-        {
-          "dtstamp": "20210512T144604Z",
-          "uid": "20210317T193500Z-20210317T210000Z-KL1801",
-          "summary": "KL1801 AMS-MUC",
-          "dtstart": "20210317T193500Z",
-          "dtend": "20210317T210000Z",
-          "location": "E190",
-          "transp": "TRANSPARENT"
-        },
-        {
-          "dtstamp": "20210512T144604Z",
-          "uid": "20210317T213000Z-20210318T150400Z-Hotel",
-          "summary": "Hotel MUC",
-          "dtstart": "20210317T213000Z",
-          "dtend": "20210318T150500Z",
-          "url": "https://www.google.com/maps/search/?api=1&query=Courtyard+Munich+City+Centre%2C+Munich",
-          "transp": "TRANSPARENT",
-          "location": "Margin FTL: 08:00\\nMargin CAO: 06:50\\n\\nLunch:       14.08 EUR \\nDinner:      35.40 EUR \\nSundries:  29.63 EUR \\n"
-        },
-        {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210318T150500Z-20210318T155000Z-Pickup",
           "summary": "Taxi",
           "dtstart": "20210318T150500Z",
@@ -491,7 +13,7 @@
           "transp": "TRANSPARENT"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210318T155000Z-20210318T221000Z-FLD",
           "summary": "Flight Day",
           "dtstart": "20210318T155000Z",
@@ -500,7 +22,7 @@
           "location": "Margin FDP: 05:25\\nActual FDP: 05:50\\nMax FDP: 11:15\\nMargin CAO DP: 03:40\\n\\nGeen alcohol na: 06:50 (NL)"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210318T163500Z-20210318T181500Z-KL1798",
           "summary": "KL1798 MUC-AMS",
           "dtstart": "20210318T163500Z",
@@ -509,7 +31,7 @@
           "transp": "TRANSPARENT"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210318T201000Z-20210318T214000Z-KL1937",
           "summary": "KL1937 AMS-GVA",
           "dtstart": "20210318T201000Z",
@@ -518,7 +40,7 @@
           "transp": "TRANSPARENT"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210318T221000Z-20210319T095900Z-Hotel",
           "summary": "Hotel GVA",
           "dtstart": "20210318T221000Z",
@@ -528,7 +50,7 @@
           "location": "Margin FTL: 02:05\\nMargin CAO: 00:55\\n\\nLunch:       25.30 CHF (22.86 EUR)\\nDinner:      54.83 CHF (49.55 EUR)\\nSundries:  34.89 CHF (31.53 EUR)\\n\\n1 CHF = 0.90367 EUR (19-03-2021)\\n"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210319T100000Z-20210319T100500Z-Pickup",
           "summary": "Taxi",
           "dtstart": "20210319T100000Z",
@@ -536,7 +58,7 @@
           "transp": "TRANSPARENT"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210319T100500Z-20210319T213000Z-FLD",
           "summary": "Flight Day",
           "dtstart": "20210319T100500Z",
@@ -545,7 +67,7 @@
           "location": "Margin FDP: 01:05\\nActual FDP: 10:55\\nMax FDP: 12:00\\nMargin CAO DP: 00:05\\n\\nGeen alcohol na: 01:05 (NL)"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210319T105000Z-20210319T123500Z-KL1928",
           "summary": "KL1928 GVA-AMS",
           "dtstart": "20210319T105000Z",
@@ -554,7 +76,7 @@
           "transp": "TRANSPARENT"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210319T142000Z-20210319T154500Z-KL1797",
           "summary": "KL1797 AMS-MUC",
           "dtstart": "20210319T142000Z",
@@ -563,7 +85,7 @@
           "transp": "TRANSPARENT"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210319T163500Z-20210319T181500Z-KL1798",
           "summary": "KL1798 MUC-AMS",
           "dtstart": "20210319T163500Z",
@@ -572,7 +94,7 @@
           "transp": "TRANSPARENT"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210319T193500Z-20210319T210000Z-KL1801",
           "summary": "KL1801 AMS-MUC",
           "dtstart": "20210319T193500Z",
@@ -581,7 +103,7 @@
           "transp": "TRANSPARENT"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210319T213000Z-20210320T090900Z-Hotel",
           "summary": "Hotel MUC",
           "dtstart": "20210319T213000Z",
@@ -591,7 +113,7 @@
           "location": "Margin FTL: 01:20\\nMargin CAO: 00:55\\n\\nLunch:       14.08 EUR \\nDinner:      35.40 EUR \\nSundries:  29.63 EUR \\n"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210320T091000Z-20210320T095500Z-Pickup",
           "summary": "Taxi",
           "dtstart": "20210320T091000Z",
@@ -599,7 +121,7 @@
           "transp": "TRANSPARENT"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210320T095500Z-20210320T130500Z-FLD",
           "summary": "Flight Day",
           "dtstart": "20210320T095500Z",
@@ -608,7 +130,7 @@
           "location": "Margin FDP: 10:20\\nActual FDP: 02:40\\nMax FDP: 13:00\\nMargin CAO DP: 08:50\\n\\nGeen alcohol na: 00:55 (NL)"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210320T104000Z-20210320T122000Z-KL1794",
           "summary": "KL1794 MUC-AMS",
           "dtstart": "20210320T104000Z",
@@ -617,7 +139,7 @@
           "transp": "TRANSPARENT"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210321T070000Z-20210321T150000Z-WTV",
           "summary": "WTV",
           "dtstart": "20210321",
@@ -626,7 +148,7 @@
           "transp": "TRANSPARENT"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210322T121000Z-20210322T190000Z-FLD",
           "summary": "Flight Day",
           "dtstart": "20210322T121000Z",
@@ -635,7 +157,7 @@
           "location": "Margin FDP: 06:40\\nActual FDP: 06:20\\nMax FDP: 13:00\\nMargin CAO DP: 04:55\\n\\nGeen alcohol na: 03:10 (NL)"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210322T133000Z-20210322T153000Z-KL1687",
           "summary": "KL1687 AMS-BIO",
           "dtstart": "20210322T133000Z",
@@ -644,7 +166,7 @@
           "transp": "TRANSPARENT"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210322T162000Z-20210322T183500Z-KL1688",
           "summary": "KL1688 BIO-AMS",
           "dtstart": "20210322T162000Z",
@@ -653,7 +175,7 @@
           "transp": "TRANSPARENT"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210323T043000Z-20210323T035900Z-LVEC",
           "summary": "LVEC",
           "dtstart": "20210323",
@@ -662,7 +184,7 @@
           "transp": "TRANSPARENT"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210324T043000Z-20210324T035900Z-LVEC",
           "summary": "LVEC",
           "dtstart": "20210324",
@@ -671,7 +193,7 @@
           "transp": "TRANSPARENT"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210325T043000Z-20210325T035900Z-LVEC",
           "summary": "LVEC",
           "dtstart": "20210325",
@@ -680,7 +202,7 @@
           "transp": "TRANSPARENT"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210326T043000Z-20210326T035900Z-LVEC",
           "summary": "LVEC",
           "dtstart": "20210326",
@@ -689,7 +211,7 @@
           "transp": "TRANSPARENT"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210327T043000Z-20210327T025900Z-LVEC",
           "summary": "LVEC",
           "dtstart": "20210327",
@@ -698,7 +220,7 @@
           "transp": "TRANSPARENT"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210328T094500Z-20210328T161500Z-TSTR1",
           "summary": "TSTR1",
           "dtstart": "20210328T094500Z",
@@ -708,7 +230,7 @@
           "transp": "TRANSPARENT"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210328T114500Z-20210328T151500Z-TSTR1",
           "summary": "CAE E1 sessie D2",
           "dtstart": "20210328T114500Z",
@@ -716,7 +238,7 @@
           "transp": "TRANSPARENT"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210329T033000Z-20210329T025900Z-LVEC",
           "summary": "LVEC",
           "dtstart": "20210329",
@@ -725,7 +247,7 @@
           "transp": "TRANSPARENT"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210330T033000Z-20210330T025900Z-LVEC",
           "summary": "LVEC",
           "dtstart": "20210330",
@@ -734,7 +256,7 @@
           "transp": "TRANSPARENT"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210331T033000Z-20210331T025900Z-LVEC",
           "summary": "LVEC",
           "dtstart": "20210331",
@@ -743,7 +265,7 @@
           "transp": "TRANSPARENT"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210401T040000Z-20210401T104500Z-TSOD",
           "summary": "TSOD",
           "dtstart": "20210401T040000Z",
@@ -753,7 +275,7 @@
           "transp": "TRANSPARENT"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210401T051500Z-20210401T094500Z-TSOD",
           "summary": "CAE E1 sessie B3",
           "dtstart": "20210401T051500Z",
@@ -761,7 +283,7 @@
           "transp": "TRANSPARENT"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210402T033000Z-20210402T091500Z-TSOD",
           "summary": "TSOD",
           "dtstart": "20210402T033000Z",
@@ -771,7 +293,7 @@
           "transp": "TRANSPARENT"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210402T044500Z-20210402T081500Z-TSOD",
           "summary": "CAE E1 sessie B2",
           "dtstart": "20210402T044500Z",
@@ -779,7 +301,7 @@
           "transp": "TRANSPARENT"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210403T033000Z-20210403T091500Z-TSOD",
           "summary": "TSOD",
           "dtstart": "20210403T033000Z",
@@ -789,7 +311,7 @@
           "transp": "TRANSPARENT"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210403T044500Z-20210403T081500Z-TSOD",
           "summary": "CAE E1 sessie B2",
           "dtstart": "20210403T044500Z",
@@ -797,7 +319,7 @@
           "transp": "TRANSPARENT"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210404T070000Z-20210404T124500Z-TSOD",
           "summary": "TSOD",
           "dtstart": "20210404T070000Z",
@@ -807,7 +329,7 @@
           "transp": "TRANSPARENT"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210404T081500Z-20210404T114500Z-TSOD",
           "summary": "CAE E1 sessie C2",
           "dtstart": "20210404T081500Z",
@@ -815,7 +337,7 @@
           "transp": "TRANSPARENT"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210405T033000Z-20210405T025900Z-LVEC",
           "summary": "LVEC",
           "dtstart": "20210405",
@@ -824,7 +346,7 @@
           "transp": "TRANSPARENT"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210406T033000Z-20210406T025900Z-LVEC",
           "summary": "LVEC",
           "dtstart": "20210406",
@@ -833,7 +355,7 @@
           "transp": "TRANSPARENT"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210407T033000Z-20210407T025900Z-LVEC",
           "summary": "LVEC",
           "dtstart": "20210407",
@@ -842,7 +364,7 @@
           "transp": "TRANSPARENT"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210408T171500Z-20210408T212500Z-FLD",
           "summary": "Flight Day",
           "dtstart": "20210408T171500Z",
@@ -851,7 +373,7 @@
           "location": "Margin FDP: 07:20\\nActual FDP: 03:40\\nMax FDP: 11:00\\nMargin CAO DP: 04:50\\n\\nGeen alcohol na: 09:15 (NL)"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210408T183500Z-20210408T205500Z-KL1171",
           "summary": "KL1171 AMS-HEL",
           "dtstart": "20210408T183500Z",
@@ -860,7 +382,7 @@
           "transp": "TRANSPARENT"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210408T212500Z-20210409T093900Z-Hotel",
           "summary": "Hotel HEL",
           "dtstart": "20210408T212500Z",
@@ -870,7 +392,7 @@
           "location": "Margin FTL: 02:55\\nMargin CAO: 01:45\\n\\nLunch:       16.45 EUR \\nDinner:      35.97 EUR \\nSundries:  29.94 EUR \\n"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210409T094000Z-20210409T101000Z-Pickup",
           "summary": "Taxi",
           "dtstart": "20210409T094000Z",
@@ -878,7 +400,7 @@
           "transp": "TRANSPARENT"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210409T101000Z-20210409T210000Z-FLD",
           "summary": "Flight Day",
           "dtstart": "20210409T101000Z",
@@ -887,7 +409,7 @@
           "location": "Margin FDP: 01:40\\nActual FDP: 10:20\\nMax FDP: 12:00\\nMargin CAO DP: 00:40\\n\\nGeen alcohol na: 02:10 (NL)"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210409T105500Z-20210409T132500Z-KL1168",
           "summary": "KL1168 HEL-AMS",
           "dtstart": "20210409T105500Z",
@@ -896,7 +418,7 @@
           "transp": "TRANSPARENT"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210409T142000Z-20210409T154500Z-KL1357",
           "summary": "KL1357 AMS-PRG",
           "dtstart": "20210409T142000Z",
@@ -905,7 +427,7 @@
           "transp": "TRANSPARENT"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210409T161500Z-20210409T175000Z-KL1358",
           "summary": "KL1358 PRG-AMS",
           "dtstart": "20210409T161500Z",
@@ -914,7 +436,7 @@
           "transp": "TRANSPARENT"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210409T190500Z-20210409T203000Z-KL1359",
           "summary": "KL1359 AMS-PRG",
           "dtstart": "20210409T190500Z",
@@ -923,7 +445,7 @@
           "transp": "TRANSPARENT"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210409T210000Z-20210410T143900Z-Hotel",
           "summary": "Hotel PRG",
           "dtstart": "20210409T210000Z",
@@ -933,7 +455,7 @@
           "location": "Margin FTL: 07:50\\nMargin CAO: 07:00\\n\\nLunch:       331.74 CZK (12.75 EUR)\\nDinner:      575.95 CZK (22.14 EUR)\\nSundries:  536.41 CZK (20.62 EUR)\\n\\n1 CZK = 0.03844 EUR (10-04-2021)\\n"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210410T144000Z-20210410T152000Z-Pickup",
           "summary": "Taxi",
           "dtstart": "20210410T144000Z",
@@ -941,7 +463,7 @@
           "transp": "TRANSPARENT"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210410T152000Z-20210410T210500Z-FLD",
           "summary": "Flight Day",
           "dtstart": "20210410T152000Z",
@@ -950,7 +472,7 @@
           "location": "Margin FDP: 05:45\\nActual FDP: 05:15\\nMax FDP: 11:00\\nMargin CAO DP: 04:00\\n\\nGeen alcohol na: 07:20 (NL)"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210410T161500Z-20210410T175000Z-KL1358",
           "summary": "KL1358 PRG-AMS",
           "dtstart": "20210410T161500Z",
@@ -959,7 +481,7 @@
           "transp": "TRANSPARENT"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210410T184500Z-20210410T203500Z-KL1939",
           "summary": "KL1939 AMS-ZAG",
           "dtstart": "20210410T184500Z",
@@ -968,7 +490,7 @@
           "transp": "TRANSPARENT"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210410T210500Z-20210411T112400Z-Hotel",
           "summary": "Hotel ZAG",
           "dtstart": "20210410T210500Z",
@@ -978,7 +500,7 @@
           "location": "Margin FTL: 04:55\\nMargin CAO: 03:45\\n\\nLunch:       109.59 HRK (14.45 EUR)\\nDinner:      211.41 HRK (27.88 EUR)\\nSundries:  129.33 HRK (17.06 EUR)\\n\\n1 HRK = 0.13189 EUR (11-04-2021)\\n"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210411T112500Z-20210411T115000Z-Pickup",
           "summary": "Taxi",
           "dtstart": "20210411T112500Z",
@@ -986,7 +508,7 @@
           "transp": "TRANSPARENT"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210411T115000Z-20210411T152500Z-FLD",
           "summary": "Flight Day",
           "dtstart": "20210411T115000Z",
@@ -995,7 +517,7 @@
           "location": "Margin FDP: 09:40\\nActual FDP: 03:05\\nMax FDP: 12:45\\nMargin CAO DP: 07:55\\n\\nGeen alcohol na: 03:50 (NL)"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210411T123500Z-20210411T144000Z-KL1942",
           "summary": "KL1942 ZAG-AMS",
           "dtstart": "20210411T123500Z",
@@ -1004,7 +526,7 @@
           "transp": "TRANSPARENT"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210412T084000Z-20210412T183500Z-FLD",
           "summary": "Flight Day",
           "dtstart": "20210412T084000Z",
@@ -1013,7 +535,7 @@
           "location": "Margin FDP: 02:35\\nActual FDP: 09:25\\nMax FDP: 12:00\\nMargin CAO DP: 01:35\\n\\nGeen alcohol na: 00:40 (NL)"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210412T094500Z-20210412T113500Z-KL1087",
           "summary": "KL1087 AMS-ORK",
           "dtstart": "20210412T094500Z",
@@ -1022,7 +544,7 @@
           "transp": "TRANSPARENT"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210412T120500Z-20210412T135500Z-KL1088",
           "summary": "KL1088 ORK-AMS",
           "dtstart": "20210412T120500Z",
@@ -1031,7 +553,7 @@
           "transp": "TRANSPARENT"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210412T144500Z-20210412T155000Z-KL1347",
           "summary": "KL1347 AMS-BLL",
           "dtstart": "20210412T144500Z",
@@ -1040,7 +562,7 @@
           "transp": "TRANSPARENT"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210412T163500Z-20210412T175000Z-KL1348",
           "summary": "KL1348 BLL-AMS",
           "dtstart": "20210412T163500Z",
@@ -1049,7 +571,7 @@
           "transp": "TRANSPARENT"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210413T033000Z-20210413T025900Z-LVEC",
           "summary": "LVEC",
           "dtstart": "20210413",
@@ -1058,7 +580,7 @@
           "transp": "TRANSPARENT"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210414T033000Z-20210414T025900Z-LVEC",
           "summary": "LVEC",
           "dtstart": "20210414",
@@ -1067,7 +589,7 @@
           "transp": "TRANSPARENT"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210415T033000Z-20210415T025900Z-LVEC",
           "summary": "LVEC",
           "dtstart": "20210415",
@@ -1076,7 +598,7 @@
           "transp": "TRANSPARENT"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210416T033000Z-20210416T091500Z-TSOD",
           "summary": "TSOD",
           "dtstart": "20210416T033000Z",
@@ -1086,7 +608,7 @@
           "transp": "TRANSPARENT"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210416T044500Z-20210416T081500Z-TSOD",
           "summary": "CAE E1 sessie B2",
           "dtstart": "20210416T044500Z",
@@ -1094,7 +616,7 @@
           "transp": "TRANSPARENT"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210417T033000Z-20210417T091500Z-TSOD",
           "summary": "TSOD",
           "dtstart": "20210417T033000Z",
@@ -1104,7 +626,7 @@
           "transp": "TRANSPARENT"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210417T044500Z-20210417T081500Z-TSOD",
           "summary": "CAE E1 sessie B2",
           "dtstart": "20210417T044500Z",
@@ -1112,7 +634,7 @@
           "transp": "TRANSPARENT"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210418T061500Z-20210418T100000Z-FLD",
           "summary": "Flight Day",
           "dtstart": "20210418T061500Z",
@@ -1121,7 +643,7 @@
           "location": "Margin FDP: 09:45\\nActual FDP: 03:15\\nMax FDP: 13:00\\nMargin CAO DP: 08:15\\n\\nGeen alcohol na: 22:15 (NL)"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210418T073500Z-20210418T093000Z-KL1641",
           "summary": "KL1641 AMS-FLR",
           "dtstart": "20210418T073500Z",
@@ -1130,7 +652,7 @@
           "transp": "TRANSPARENT"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210418T100000Z-20210419T031900Z-Hotel",
           "summary": "Hotel FLR",
           "dtstart": "20210418T100000Z",
@@ -1140,7 +662,7 @@
           "location": "Margin FTL: 07:50\\nMargin CAO: 06:40\\n\\nLunch:       10.50 EUR \\nDinner:      26.58 EUR \\nSundries:  23.26 EUR \\n"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210419T032000Z-20210419T034000Z-Pickup",
           "summary": "Taxi",
           "dtstart": "20210419T032000Z",
@@ -1148,7 +670,7 @@
           "transp": "TRANSPARENT"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210419T034000Z-20210419T115500Z-FLD",
           "summary": "Flight Day",
           "dtstart": "20210419T034000Z",
@@ -1157,7 +679,7 @@
           "location": "Margin FDP: 04:15\\nActual FDP: 07:45\\nMax FDP: 12:00\\nMargin CAO DP: 02:15\\n\\nGeen alcohol na: 19:40 (NL)"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210419T043000Z-20210419T064000Z-KL1638",
           "summary": "KL1638 FLR-AMS",
           "dtstart": "20210419T043000Z",
@@ -1166,7 +688,7 @@
           "transp": "TRANSPARENT"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210419T073500Z-20210419T090500Z-KL1443",
           "summary": "KL1443 AMS-ABZ",
           "dtstart": "20210419T073500Z",
@@ -1175,7 +697,7 @@
           "transp": "TRANSPARENT"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210419T093500Z-20210419T111000Z-KL1444",
           "summary": "KL1444 ABZ-AMS",
           "dtstart": "20210419T093500Z",
@@ -1184,7 +706,7 @@
           "transp": "TRANSPARENT"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210420T061500Z-20210420T113500Z-FLD",
           "summary": "Flight Day",
           "dtstart": "20210420T061500Z",
@@ -1193,7 +715,7 @@
           "location": "Margin FDP: 08:10\\nActual FDP: 04:50\\nMax FDP: 13:00\\nMargin CAO DP: 06:40\\n\\nGeen alcohol na: 22:15 (NL)"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210420T072000Z-20210420T085500Z-KL1413",
           "summary": "KL1413 AMS-LYS",
           "dtstart": "20210420T072000Z",
@@ -1202,7 +724,7 @@
           "transp": "TRANSPARENT"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210420T092500Z-20210420T110500Z-KL1414",
           "summary": "KL1414 LYS-AMS",
           "dtstart": "20210420T092500Z",
@@ -1211,7 +733,7 @@
           "transp": "TRANSPARENT"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210421T033000Z-20210421T025900Z-LVEC",
           "summary": "LVEC",
           "dtstart": "20210421",
@@ -1220,7 +742,7 @@
           "transp": "TRANSPARENT"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210422T033000Z-20210422T025900Z-LVEC",
           "summary": "LVEC",
           "dtstart": "20210422",
@@ -1229,7 +751,7 @@
           "transp": "TRANSPARENT"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210423T033000Z-20210423T025900Z-LVEC",
           "summary": "LVEC",
           "dtstart": "20210423",
@@ -1238,7 +760,7 @@
           "transp": "TRANSPARENT"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210424T072000Z-20210424T161000Z-FLD",
           "summary": "Flight Day",
           "dtstart": "20210424T072000Z",
@@ -1247,7 +769,7 @@
           "location": "Margin FDP: 04:10\\nActual FDP: 08:20\\nMax FDP: 12:30\\nMargin CAO DP: 03:10\\n\\nGeen alcohol na: 23:20 (NL)"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210424T084000Z-20210424T104000Z-KL1109",
           "summary": "KL1109 AMS-ARN",
           "dtstart": "20210424T084000Z",
@@ -1256,7 +778,7 @@
           "transp": "TRANSPARENT"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210424T112500Z-20210424T133000Z-KL1110",
           "summary": "KL1110 ARN-AMS",
           "dtstart": "20210424T112500Z",
@@ -1265,7 +787,7 @@
           "transp": "TRANSPARENT"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210424T145000Z-20210424T154000Z-KL1861",
           "summary": "KL1861 AMS-DUS",
           "dtstart": "20210424T145000Z",
@@ -1274,7 +796,7 @@
           "transp": "TRANSPARENT"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210424T161000Z-20210425T031900Z-Hotel",
           "summary": "Hotel DUS",
           "dtstart": "20210424T161000Z",
@@ -1284,7 +806,7 @@
           "location": "Margin FTL: 01:35\\nMargin CAO: 00:25\\n\\nLunch:       11.01 EUR \\nDinner:      28.74 EUR \\nSundries:  24.38 EUR \\n"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210425T032000Z-20210425T033500Z-Pickup",
           "summary": "Taxi",
           "dtstart": "20210425T032000Z",
@@ -1292,7 +814,7 @@
           "transp": "TRANSPARENT"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210425T033500Z-20210425T133500Z-FLD",
           "summary": "Flight Day",
           "dtstart": "20210425T033500Z",
@@ -1301,7 +823,7 @@
           "location": "Margin FDP: 02:30\\nActual FDP: 09:30\\nMax FDP: 12:00\\nMargin CAO DP: 00:30\\n\\nGeen alcohol na: 19:35 (NL)"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210425T042000Z-20210425T051500Z-KL1852",
           "summary": "KL1852 DUS-AMS",
           "dtstart": "20210425T042000Z",
@@ -1310,7 +832,7 @@
           "transp": "TRANSPARENT"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210425T070500Z-20210425T094000Z-KL1711",
           "summary": "KL1711 AMS-OPO",
           "dtstart": "20210425T070500Z",
@@ -1319,7 +841,7 @@
           "transp": "TRANSPARENT"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210425T102500Z-20210425T130500Z-KL1712",
           "summary": "KL1712 OPO-AMS",
           "dtstart": "20210425T102500Z",
@@ -1328,7 +850,7 @@
           "transp": "TRANSPARENT"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210426T061500Z-20210426T160000Z-FLD",
           "summary": "Flight Day",
           "dtstart": "20210426T061500Z",
@@ -1337,7 +859,7 @@
           "location": "Margin FDP: 03:15\\nActual FDP: 09:15\\nMax FDP: 12:30\\nMargin CAO DP: 02:15\\n\\nGeen alcohol na: 22:15 (NL)"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210426T073500Z-20210426T093000Z-KL1641",
           "summary": "KL1641 AMS-FLR",
           "dtstart": "20210426T073500Z",
@@ -1346,7 +868,7 @@
           "transp": "TRANSPARENT"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210426T101000Z-20210426T122500Z-KL1642",
           "summary": "KL1642 FLR-AMS",
           "dtstart": "20210426T101000Z",
@@ -1355,7 +877,7 @@
           "transp": "TRANSPARENT"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210426T135000Z-20210426T153000Z-KL1921",
           "summary": "KL1921 AMS-GDN",
           "dtstart": "20210426T135000Z",
@@ -1364,7 +886,7 @@
           "transp": "TRANSPARENT"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210426T160000Z-20210427T031400Z-Hotel",
           "summary": "Hotel GDN",
           "dtstart": "20210426T160000Z",
@@ -1374,7 +896,7 @@
           "location": "Margin FTL: 01:50\\nMargin CAO: 00:40\\n\\nLunch:       43.09 PLN (9.43 EUR)\\nDinner:      87.34 PLN (19.11 EUR)\\nSundries:  81.54 PLN (17.85 EUR)\\n\\n1 PLN = 0.21885 EUR (27-04-2021)\\n"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210427T031500Z-20210427T034000Z-Pickup",
           "summary": "Taxi",
           "dtstart": "20210427T031500Z",
@@ -1382,7 +904,7 @@
           "transp": "TRANSPARENT"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210427T034000Z-20210427T070500Z-FLD",
           "summary": "Flight Day",
           "dtstart": "20210427T034000Z",
@@ -1391,7 +913,7 @@
           "location": "Margin FDP: 09:35\\nActual FDP: 02:55\\nMax FDP: 12:30\\nMargin CAO DP: 07:05\\n\\nGeen alcohol na: 19:40 (NL)"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210427T042500Z-20210427T062000Z-KL1916",
           "summary": "KL1916 GDN-AMS",
           "dtstart": "20210427T042500Z",
@@ -1400,7 +922,7 @@
           "transp": "TRANSPARENT"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210428T061500Z-20210428T115000Z-FLD",
           "summary": "Flight Day",
           "dtstart": "20210428T061500Z",
@@ -1409,7 +931,7 @@
           "location": "Margin FDP: 07:55\\nActual FDP: 05:05\\nMax FDP: 13:00\\nMargin CAO DP: 06:25\\n\\nGeen alcohol na: 22:15 (NL)"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210428T072000Z-20210428T085500Z-KL1413",
           "summary": "KL1413 AMS-LYS",
           "dtstart": "20210428T072000Z",
@@ -1418,7 +940,7 @@
           "transp": "TRANSPARENT"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210428T092500Z-20210428T110500Z-KL1414",
           "summary": "KL1414 LYS-AMS",
           "dtstart": "20210428T092500Z",
@@ -1427,7 +949,7 @@
           "transp": "TRANSPARENT"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210429T033000Z-20210429T025900Z-LVEC",
           "summary": "LVEC",
           "dtstart": "20210429",
@@ -1436,7 +958,7 @@
           "transp": "TRANSPARENT"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210430T033000Z-20210430T025900Z-LVEC",
           "summary": "LVEC",
           "dtstart": "20210430",
@@ -1445,7 +967,7 @@
           "transp": "TRANSPARENT"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210501T033000Z-20210501T025900Z-LVEC",
           "summary": "LVEC",
           "dtstart": "20210501",
@@ -1454,7 +976,7 @@
           "transp": "TRANSPARENT"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210502T033000Z-20210502T025900Z-LVEC",
           "summary": "LVEC",
           "dtstart": "20210502",
@@ -1463,7 +985,7 @@
           "transp": "TRANSPARENT"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210503T033000Z-20210503T025900Z-LVEC",
           "summary": "LVEC",
           "dtstart": "20210503",
@@ -1472,7 +994,7 @@
           "transp": "TRANSPARENT"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210504T112500Z-20210504T174000Z-FLD",
           "summary": "Flight Day",
           "dtstart": "20210504T112500Z",
@@ -1481,7 +1003,7 @@
           "location": "Margin FDP: 07:15\\nActual FDP: 05:45\\nMax FDP: 13:00\\nMargin CAO DP: 05:30\\n\\nGeen alcohol na: 03:25 (NL)"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210504T123000Z-20210504T142000Z-KL1147",
           "summary": "KL1147 AMS-OSL",
           "dtstart": "20210504T123000Z",
@@ -1490,7 +1012,7 @@
           "transp": "TRANSPARENT"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210504T152000Z-20210504T171000Z-DH/KL1148",
           "summary": "DH/KL1148 OSL-AMS",
           "dtstart": "20210504T152000Z",
@@ -1499,7 +1021,7 @@
           "transp": "TRANSPARENT"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210505T083500Z-20210505T142000Z-FLD",
           "summary": "Flight Day",
           "dtstart": "20210505T083500Z",
@@ -1508,7 +1030,7 @@
           "location": "Margin FDP: 07:45\\nActual FDP: 05:15\\nMax FDP: 13:00\\nMargin CAO DP: 06:15\\n\\nGeen alcohol na: 00:35 (NL)"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210505T094000Z-20210505T112500Z-KL1565",
           "summary": "KL1565 AMS-GOA",
           "dtstart": "20210505T094000Z",
@@ -1517,7 +1039,7 @@
           "transp": "TRANSPARENT"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210505T115500Z-20210505T135000Z-KL1566",
           "summary": "KL1566 GOA-AMS",
           "dtstart": "20210505T115500Z",
@@ -1526,7 +1048,7 @@
           "transp": "TRANSPARENT"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210506T033000Z-20210506T025900Z-LVEC",
           "summary": "LVEC",
           "dtstart": "20210506",
@@ -1535,7 +1057,7 @@
           "transp": "TRANSPARENT"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210507T033000Z-20210507T025900Z-LVEC",
           "summary": "LVEC",
           "dtstart": "20210507",
@@ -1544,7 +1066,7 @@
           "transp": "TRANSPARENT"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210508T033000Z-20210508T025900Z-LVEC",
           "summary": "LVEC",
           "dtstart": "20210508",
@@ -1553,7 +1075,7 @@
           "transp": "TRANSPARENT"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210509T033000Z-20210509T025900Z-LVEC",
           "summary": "LVEC",
           "dtstart": "20210509",
@@ -1562,7 +1084,7 @@
           "transp": "TRANSPARENT"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210510T171500Z-20210510T212500Z-FLD",
           "summary": "Flight Day",
           "dtstart": "20210510T171500Z",
@@ -1571,7 +1093,7 @@
           "location": "Margin FDP: 07:20\\nActual FDP: 03:40\\nMax FDP: 11:00\\nMargin CAO DP: 04:50\\n\\nGeen alcohol na: 09:15 (NL)"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210510T183500Z-20210510T205500Z-KL1171",
           "summary": "KL1171 AMS-HEL",
           "dtstart": "20210510T183500Z",
@@ -1580,7 +1102,7 @@
           "transp": "TRANSPARENT"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210510T212500Z-20210511T092400Z-Hotel",
           "summary": "Hotel HEL",
           "dtstart": "20210510T212500Z",
@@ -1590,7 +1112,7 @@
           "location": "Margin FTL: 02:40\\nMargin CAO: 01:30\\n\\nLunch:       16.45 EUR \\nDinner:      35.97 EUR \\nSundries:  29.94 EUR \\n"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210511T092500Z-20210511T095500Z-Pickup",
           "summary": "Taxi",
           "dtstart": "20210511T092500Z",
@@ -1598,7 +1120,7 @@
           "transp": "TRANSPARENT"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210511T095500Z-20210511T210000Z-FLD",
           "summary": "Flight Day",
           "dtstart": "20210511T095500Z",
@@ -1607,7 +1129,7 @@
           "location": "Margin FDP: 01:55\\nActual FDP: 10:35\\nMax FDP: 12:30\\nMargin CAO DP: 00:55\\n\\nGeen alcohol na: 01:55 (NL)"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210511T105500Z-20210511T132500Z-DH/KL1168",
           "summary": "DH/KL1168 HEL-AMS",
           "dtstart": "20210511T105500Z",
@@ -1616,7 +1138,7 @@
           "transp": "TRANSPARENT"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210511T144500Z-20210511T155000Z-KL1347",
           "summary": "KL1347 AMS-BLL",
           "dtstart": "20210511T144500Z",
@@ -1625,7 +1147,7 @@
           "transp": "TRANSPARENT"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210511T163500Z-20210511T175000Z-KL1348",
           "summary": "KL1348 BLL-AMS",
           "dtstart": "20210511T163500Z",
@@ -1634,7 +1156,7 @@
           "transp": "TRANSPARENT"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210511T185000Z-20210511T203000Z-KL1923",
           "summary": "KL1923 AMS-GDN",
           "dtstart": "20210511T185000Z",
@@ -1643,7 +1165,7 @@
           "transp": "TRANSPARENT"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210511T210000Z-20210512T144900Z-Hotel",
           "summary": "Hotel GDN",
           "dtstart": "20210511T210000Z",
@@ -1653,7 +1175,7 @@
           "location": "Margin FTL: 07:30\\nMargin CAO: 07:15\\n\\nLunch:       43.09 PLN (9.47 EUR)\\nDinner:      87.34 PLN (19.20 EUR)\\nSundries:  81.54 PLN (17.93 EUR)\\n\\n1 PLN = 0.21986 EUR (12-05-2021)\\n"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210512T145000Z-20210512T151500Z-Pickup",
           "summary": "Taxi",
           "dtstart": "20210512T145000Z",
@@ -1661,7 +1183,7 @@
           "transp": "TRANSPARENT"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210512T151500Z-20210512T211000Z-FLD",
           "summary": "Flight Day",
           "dtstart": "20210512T151500Z",
@@ -1670,7 +1192,7 @@
           "location": "Margin FDP: 05:35\\nActual FDP: 05:25\\nMax FDP: 11:00\\nMargin CAO DP: 03:50\\n\\nGeen alcohol na: 07:15 (NL)"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210512T160000Z-20210512T175500Z-KL1922",
           "summary": "KL1922 GDN-AMS",
           "dtstart": "20210512T160000Z",
@@ -1679,7 +1201,7 @@
           "transp": "TRANSPARENT"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210512T190500Z-20210512T204000Z-KL1419",
           "summary": "KL1419 AMS-LYS",
           "dtstart": "20210512T190500Z",
@@ -1688,7 +1210,7 @@
           "transp": "TRANSPARENT"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210512T211000Z-20210513T080900Z-Hotel",
           "summary": "Hotel LYS",
           "dtstart": "20210512T211000Z",
@@ -1698,7 +1220,7 @@
           "location": "Margin FTL: 01:40\\nMargin CAO: 00:30\\n\\nLunch:       14.92 EUR \\nDinner:      29.68 EUR \\nSundries:  31.06 EUR \\n"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210513T081000Z-20210513T084000Z-Pickup",
           "summary": "Taxi",
           "dtstart": "20210513T081000Z",
@@ -1706,7 +1228,7 @@
           "transp": "TRANSPARENT"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210513T084000Z-20210513T115000Z-FLD",
           "summary": "Flight Day",
           "dtstart": "20210513T084000Z",
@@ -1715,7 +1237,7 @@
           "location": "Margin FDP: 10:20\\nActual FDP: 02:40\\nMax FDP: 13:00\\nMargin CAO DP: 08:50\\n\\nGeen alcohol na: 00:40 (NL)"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210513T092500Z-20210513T110500Z-KL1414",
           "summary": "KL1414 LYS-AMS",
           "dtstart": "20210513T092500Z",
@@ -1724,7 +1246,7 @@
           "transp": "TRANSPARENT"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210514T062000Z-20210514T115000Z-FLD",
           "summary": "Flight Day",
           "dtstart": "20210514T062000Z",
@@ -1733,7 +1255,7 @@
           "location": "Margin FDP: 08:00\\nActual FDP: 05:00\\nMax FDP: 13:00\\nMargin CAO DP: 06:30\\n\\nGeen alcohol na: 22:20 (NL)"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210514T072500Z-20210514T090000Z-KL1473",
           "summary": "KL1473 AMS-GLA",
           "dtstart": "20210514T072500Z",
@@ -1742,7 +1264,7 @@
           "transp": "TRANSPARENT"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210514T094500Z-20210514T112000Z-KL1474",
           "summary": "KL1474 GLA-AMS",
           "dtstart": "20210514T094500Z",
@@ -1751,7 +1273,7 @@
           "transp": "TRANSPARENT"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210515T062500Z-20210515T124500Z-FLD",
           "summary": "Flight Day",
           "dtstart": "20210515T062500Z",
@@ -1760,7 +1282,7 @@
           "location": "Margin FDP: 07:10\\nActual FDP: 05:50\\nMax FDP: 13:00\\nMargin CAO DP: 05:40\\n\\nGeen alcohol na: 22:25 (NL)"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210515T073000Z-20210515T092500Z-KL1253",
           "summary": "KL1253 AMS-NCE",
           "dtstart": "20210515T073000Z",
@@ -1769,7 +1291,7 @@
           "transp": "TRANSPARENT"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210515T101000Z-20210515T121500Z-KL1254",
           "summary": "KL1254 NCE-AMS",
           "dtstart": "20210515T101000Z",
@@ -1778,7 +1300,7 @@
           "transp": "TRANSPARENT"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210516T033000Z-20210516T025900Z-LVEC",
           "summary": "LVEC",
           "dtstart": "20210516",
@@ -1787,7 +1309,7 @@
           "transp": "TRANSPARENT"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210517T033000Z-20210517T025900Z-LVEC",
           "summary": "LVEC",
           "dtstart": "20210517",
@@ -1796,7 +1318,7 @@
           "transp": "TRANSPARENT"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210518T033000Z-20210518T025900Z-LVEC",
           "summary": "LVEC",
           "dtstart": "20210518",
@@ -1805,7 +1327,7 @@
           "transp": "TRANSPARENT"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210519T033000Z-20210519T025900Z-LVEC",
           "summary": "LVEC",
           "dtstart": "20210519",
@@ -1814,7 +1336,7 @@
           "transp": "TRANSPARENT"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210520T033000Z-20210520T025900Z-LVEC",
           "summary": "LVEC",
           "dtstart": "20210520",
@@ -1823,7 +1345,7 @@
           "transp": "TRANSPARENT"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210521T060000Z-20210521T133500Z-FLD",
           "summary": "Flight Day",
           "dtstart": "20210521T060000Z",
@@ -1832,7 +1354,7 @@
           "location": "Margin FDP: 05:55\\nActual FDP: 07:05\\nMax FDP: 13:00\\nMargin CAO DP: 04:25\\n\\nGeen alcohol na: 22:00 (NL)"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210521T070500Z-20210521T094000Z-KL1711",
           "summary": "KL1711 AMS-OPO",
           "dtstart": "20210521T070500Z",
@@ -1841,7 +1363,7 @@
           "transp": "TRANSPARENT"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210521T102500Z-20210521T130500Z-KL1712",
           "summary": "KL1712 OPO-AMS",
           "dtstart": "20210521T102500Z",
@@ -1850,7 +1372,7 @@
           "transp": "TRANSPARENT"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210522T063500Z-20210522T172500Z-FLD",
           "summary": "Flight Day",
           "dtstart": "20210522T063500Z",
@@ -1859,7 +1381,7 @@
           "location": "Margin FDP: 01:40\\nActual FDP: 10:20\\nMax FDP: 12:00\\nMargin CAO DP: 00:40\\n\\nGeen alcohol na: 22:35 (NL)"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210522T074000Z-20210522T092500Z-KL1563",
           "summary": "KL1563 AMS-GOA",
           "dtstart": "20210522T074000Z",
@@ -1868,7 +1390,7 @@
           "transp": "TRANSPARENT"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210522T100500Z-20210522T120000Z-KL1564",
           "summary": "KL1564 GOA-AMS",
           "dtstart": "20210522T100500Z",
@@ -1877,7 +1399,7 @@
           "transp": "TRANSPARENT"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210522T130000Z-20210522T143000Z-KL1931",
           "summary": "KL1931 AMS-GVA",
           "dtstart": "20210522T130000Z",
@@ -1886,7 +1408,7 @@
           "transp": "TRANSPARENT"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210522T151500Z-20210522T165500Z-KL1932",
           "summary": "KL1932 GVA-AMS",
           "dtstart": "20210522T151500Z",
@@ -1895,7 +1417,7 @@
           "transp": "TRANSPARENT"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210523T033000Z-20210523T025900Z-LVEC",
           "summary": "LVEC",
           "dtstart": "20210523",
@@ -1904,7 +1426,7 @@
           "transp": "TRANSPARENT"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210524T033000Z-20210524T025900Z-LVEC",
           "summary": "LVEC",
           "dtstart": "20210524",
@@ -1913,7 +1435,7 @@
           "transp": "TRANSPARENT"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210525T033000Z-20210525T025900Z-LVEC",
           "summary": "LVEC",
           "dtstart": "20210525",
@@ -1922,7 +1444,7 @@
           "transp": "TRANSPARENT"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210526T033000Z-20210526T025900Z-LCV",
           "summary": "LCV",
           "dtstart": "20210526",
@@ -1931,7 +1453,7 @@
           "transp": "TRANSPARENT"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210527T033000Z-20210527T025900Z-LCV",
           "summary": "LCV",
           "dtstart": "20210527",
@@ -1940,7 +1462,7 @@
           "transp": "TRANSPARENT"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210528T033000Z-20210528T025900Z-LCV",
           "summary": "LCV",
           "dtstart": "20210528",
@@ -1949,7 +1471,7 @@
           "transp": "TRANSPARENT"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210529T033000Z-20210529T025900Z-LCV",
           "summary": "LCV",
           "dtstart": "20210529",
@@ -1958,7 +1480,7 @@
           "transp": "TRANSPARENT"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210530T033000Z-20210530T025900Z-LCV",
           "summary": "LCV",
           "dtstart": "20210530",
@@ -1967,7 +1489,15 @@
           "transp": "TRANSPARENT"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
+          "uid": "20210603T112900Z-20210603T032900Z-CLICK",
+          "summary": "CLICK",
+          "dtstart": "20210603T112900Z",
+          "dtend": "20210604T032900Z",
+          "transp": "TRANSPARENT"
+        },
+        {
+          "dtstamp": "20210617T144854Z",
           "uid": "20210531T033000Z-20210531T025900Z-LCV",
           "summary": "LCV",
           "dtstart": "20210531",
@@ -1976,7 +1506,7 @@
           "transp": "TRANSPARENT"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210601T133000Z-20210601T161000Z-FLD",
           "summary": "Flight Day",
           "dtstart": "20210601T133000Z",
@@ -1985,7 +1515,7 @@
           "location": "Margin FDP: 09:35\\nActual FDP: 02:10\\nMax FDP: 11:45\\nMargin CAO DP: 07:50\\n\\nGeen alcohol na: 05:30 (NL)"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210601T145000Z-20210601T154000Z-KL1757",
           "summary": "KL1757 AMS-BRE",
           "dtstart": "20210601T145000Z",
@@ -1994,7 +1524,7 @@
           "transp": "TRANSPARENT"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210601T161000Z-20210602T031400Z-Hotel",
           "summary": "Hotel BRE",
           "dtstart": "20210601T161000Z",
@@ -2004,7 +1534,7 @@
           "location": "Margin FTL: 01:35\\nMargin CAO: 00:25\\n\\nLunch:       13.41 EUR \\nDinner:      29.27 EUR \\nSundries:  23.23 EUR \\n"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210602T031500Z-20210602T033500Z-Pickup",
           "summary": "Taxi",
           "dtstart": "20210602T031500Z",
@@ -2012,7 +1542,7 @@
           "transp": "TRANSPARENT"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210602T033500Z-20210602T090000Z-FLD",
           "summary": "Flight Day",
           "dtstart": "20210602T033500Z",
@@ -2021,7 +1551,7 @@
           "location": "Margin FDP: 07:35\\nActual FDP: 04:55\\nMax FDP: 12:30\\nMargin CAO DP: 05:05\\n\\nGeen alcohol na: 19:35 (NL)"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210602T042000Z-20210602T051500Z-KL1750",
           "summary": "KL1750 BRE-AMS",
           "dtstart": "20210602T042000Z",
@@ -2030,7 +1560,7 @@
           "transp": "TRANSPARENT"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210602T073500Z-20210602T083000Z-KL1739",
           "summary": "KL1739 AMS-LUX",
           "dtstart": "20210602T073500Z",
@@ -2039,7 +1569,7 @@
           "transp": "TRANSPARENT"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210602T090000Z-20210603T025900Z-Hotel",
           "summary": "Hotel LUX",
           "dtstart": "20210602T090000Z",
@@ -2049,7 +1579,7 @@
           "location": "Margin FTL: 08:30\\nMargin CAO: 07:20\\n\\nLunch:       16.44 EUR \\nDinner:      37.07 EUR \\nSundries:  24.99 EUR \\n"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210603T030000Z-20210603T032000Z-Pickup",
           "summary": "Taxi",
           "dtstart": "20210603T030000Z",
@@ -2057,7 +1587,7 @@
           "transp": "TRANSPARENT"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210603T032000Z-20210603T060000Z-FLD",
           "summary": "Flight Day",
           "dtstart": "20210603T032000Z",
@@ -2066,7 +1596,7 @@
           "location": "Margin FDP: 10:05\\nActual FDP: 02:10\\nMax FDP: 12:15\\nMargin CAO DP: 07:20\\n\\nGeen alcohol na: 19:20 (NL)"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210603T041000Z-20210603T051500Z-KL1736",
           "summary": "KL1736 LUX-AMS",
           "dtstart": "20210603T041000Z",
@@ -2075,7 +1605,7 @@
           "transp": "TRANSPARENT"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210604T033000Z-20210604T025900Z-LVEC",
           "summary": "LVEC",
           "dtstart": "20210604",
@@ -2084,7 +1614,7 @@
           "transp": "TRANSPARENT"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210605T033000Z-20210605T025900Z-LVEC",
           "summary": "LVEC",
           "dtstart": "20210605",
@@ -2093,7 +1623,7 @@
           "transp": "TRANSPARENT"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210606T033000Z-20210606T025900Z-LVEC",
           "summary": "LVEC",
           "dtstart": "20210606",
@@ -2102,7 +1632,7 @@
           "transp": "TRANSPARENT"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210607T084000Z-20210607T142500Z-FLD",
           "summary": "Flight Day",
           "dtstart": "20210607T084000Z",
@@ -2111,7 +1641,7 @@
           "location": "Margin FDP: 07:45\\nActual FDP: 05:15\\nMax FDP: 13:00\\nMargin CAO DP: 06:15\\n\\nGeen alcohol na: 00:40 (NL)"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210607T094500Z-20210607T113500Z-KL1087",
           "summary": "KL1087 AMS-ORK",
           "dtstart": "20210607T094500Z",
@@ -2120,7 +1650,7 @@
           "transp": "TRANSPARENT"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210607T120500Z-20210607T135500Z-KL1088",
           "summary": "KL1088 ORK-AMS",
           "dtstart": "20210607T120500Z",
@@ -2129,7 +1659,7 @@
           "transp": "TRANSPARENT"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210608T112000Z-20210608T174500Z-FLD",
           "summary": "Flight Day",
           "dtstart": "20210608T112000Z",
@@ -2138,7 +1668,7 @@
           "location": "Margin FDP: 07:05\\nActual FDP: 05:55\\nMax FDP: 13:00\\nMargin CAO DP: 05:20\\n\\nGeen alcohol na: 03:20 (NL)"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210608T122500Z-20210608T143000Z-KL1687",
           "summary": "KL1687 AMS-BIO",
           "dtstart": "20210608T122500Z",
@@ -2147,7 +1677,7 @@
           "transp": "TRANSPARENT"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210608T151500Z-20210608T171500Z-KL1688",
           "summary": "KL1688 BIO-AMS",
           "dtstart": "20210608T151500Z",
@@ -2156,7 +1686,7 @@
           "transp": "TRANSPARENT"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210609T062000Z-20210609T121500Z-FLD",
           "summary": "Flight Day",
           "dtstart": "20210609T062000Z",
@@ -2165,7 +1695,7 @@
           "location": "Margin FDP: 07:35\\nActual FDP: 05:25\\nMax FDP: 13:00\\nMargin CAO DP: 06:05\\n\\nGeen alcohol na: 22:20 (NL)"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210609T072500Z-20210609T091500Z-KL1993",
           "summary": "KL1993 AMS-KRK",
           "dtstart": "20210609T072500Z",
@@ -2174,7 +1704,7 @@
           "transp": "TRANSPARENT"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210609T094500Z-20210609T114500Z-KL1994",
           "summary": "KL1994 KRK-AMS",
           "dtstart": "20210609T094500Z",
@@ -2183,61 +1713,61 @@
           "transp": "TRANSPARENT"
         },
         {
-          "dtstamp": "20210512T144604Z",
-          "uid": "20210610T060000Z-20210610T133500Z-FLD",
+          "dtstamp": "20210617T144854Z",
+          "uid": "20210610T180000Z-20210610T205000Z-FLD",
           "summary": "Flight Day",
-          "dtstart": "20210610T060000Z",
-          "dtend": "20210610T133500Z",
+          "dtstart": "20210610T180000Z",
+          "dtend": "20210610T205000Z",
           "transp": "TRANSPARENT",
-          "location": "Margin FDP: 05:55\\nActual FDP: 07:05\\nMax FDP: 13:00\\nMargin CAO DP: 04:25\\n\\nGeen alcohol na: 22:00 (NL)"
+          "location": "Margin FDP: 08:40\\nActual FDP: 02:20\\nMax FDP: 11:00\\nMargin CAO DP: 06:10\\n\\nGeen alcohol na: 10:00 (NL)"
         },
         {
-          "dtstamp": "20210512T144604Z",
-          "uid": "20210610T070500Z-20210610T094000Z-KL1711",
-          "summary": "KL1711 AMS-OPO",
-          "dtstart": "20210610T070500Z",
-          "dtend": "20210610T094000Z",
+          "dtstamp": "20210617T144854Z",
+          "uid": "20210610T190500Z-20210610T202000Z-KL1435",
+          "summary": "KL1435 AMS-BHX",
+          "dtstart": "20210610T190500Z",
+          "dtend": "20210610T202000Z",
           "location": "E190",
           "transp": "TRANSPARENT"
         },
         {
-          "dtstamp": "20210512T144604Z",
-          "uid": "20210610T102500Z-20210610T130500Z-DH/KL1712",
-          "summary": "DH/KL1712 OPO-AMS",
-          "dtstart": "20210610T102500Z",
-          "dtend": "20210610T130500Z",
-          "location": "",
+          "dtstamp": "20210617T144854Z",
+          "uid": "20210610T205000Z-20210611T084400Z-Hotel",
+          "summary": "Hotel BHX",
+          "dtstart": "20210610T205000Z",
+          "dtend": "20210611T084500Z",
+          "url": "https://www.google.com/maps/search/?api=1&query=Crowne+Plaza+Hotel+Birmingham%2C+Birmingham",
+          "transp": "TRANSPARENT",
+          "location": "Margin FTL: 02:35\\nMargin CAO: 01:25\\n\\nLunch:       10.24 GBP (11.94 EUR)\\nDinner:      19.45 GBP (22.67 EUR)\\nSundries:  18.26 GBP (21.29 EUR)\\n\\n1 GBP = 1.16563 EUR (11-06-2021)\\n"
+        },
+        {
+          "dtstamp": "20210617T144854Z",
+          "uid": "20210611T084500Z-20210611T091500Z-Pickup",
+          "summary": "Taxi",
+          "dtstart": "20210611T084500Z",
+          "dtend": "20210611T091500Z",
           "transp": "TRANSPARENT"
         },
         {
-          "dtstamp": "20210512T144604Z",
-          "uid": "20210611T131000Z-20210611T182500Z-FLD",
+          "dtstamp": "20210617T144854Z",
+          "uid": "20210611T091500Z-20210611T120000Z-FLD",
           "summary": "Flight Day",
-          "dtstart": "20210611T131000Z",
-          "dtend": "20210611T182500Z",
+          "dtstart": "20210611T091500Z",
+          "dtend": "20210611T120000Z",
           "transp": "TRANSPARENT",
-          "location": "Margin FDP: 07:15\\nActual FDP: 04:45\\nMax FDP: 12:00\\nMargin CAO DP: 05:30\\n\\nGeen alcohol na: 05:10 (NL)"
+          "location": "Margin FDP: 10:45\\nActual FDP: 02:15\\nMax FDP: 13:00\\nMargin CAO DP: 09:15\\n\\nGeen alcohol na: 01:15 (NL)"
         },
         {
-          "dtstamp": "20210512T144604Z",
-          "uid": "20210611T141500Z-20210611T154000Z-KL1289",
-          "summary": "KL1289 AMS-EDI",
-          "dtstart": "20210611T141500Z",
-          "dtend": "20210611T154000Z",
+          "dtstamp": "20210617T144854Z",
+          "uid": "20210611T100000Z-20210611T111500Z-KL1424",
+          "summary": "KL1424 BHX-AMS",
+          "dtstart": "20210611T100000Z",
+          "dtend": "20210611T111500Z",
           "location": "E190",
           "transp": "TRANSPARENT"
         },
         {
-          "dtstamp": "20210512T144604Z",
-          "uid": "20210611T162500Z-20210611T175500Z-KL1290",
-          "summary": "KL1290 EDI-AMS",
-          "dtstart": "20210611T162500Z",
-          "dtend": "20210611T175500Z",
-          "location": "E190",
-          "transp": "TRANSPARENT"
-        },
-        {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210612T113500Z-20210612T175000Z-FLD",
           "summary": "Flight Day",
           "dtstart": "20210612T113500Z",
@@ -2246,7 +1776,7 @@
           "location": "Margin FDP: 07:00\\nActual FDP: 05:45\\nMax FDP: 12:45\\nMargin CAO DP: 05:15\\n\\nGeen alcohol na: 03:35 (NL)"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210612T124000Z-20210612T144500Z-KL1687",
           "summary": "KL1687 AMS-BIO",
           "dtstart": "20210612T124000Z",
@@ -2255,7 +1785,7 @@
           "transp": "TRANSPARENT"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210612T152000Z-20210612T172000Z-KL1688",
           "summary": "KL1688 BIO-AMS",
           "dtstart": "20210612T152000Z",
@@ -2264,12 +1794,848 @@
           "transp": "TRANSPARENT"
         },
         {
-          "dtstamp": "20210512T144604Z",
+          "dtstamp": "20210617T144854Z",
           "uid": "20210613T033000Z-20210613T025900Z-LVEC",
           "summary": "LVEC",
           "dtstart": "20210613",
           "dtend": "20210614",
           "description": "",
+          "transp": "TRANSPARENT"
+        },
+        {
+          "dtstamp": "20210617T144854Z",
+          "uid": "20210623T115100Z-20210623T032900Z-CLICK",
+          "summary": "CLICK",
+          "dtstart": "20210623T115100Z",
+          "dtend": "20210624T032900Z",
+          "transp": "TRANSPARENT"
+        },
+        {
+          "dtstamp": "20210617T144854Z",
+          "uid": "20210614T033000Z-20210614T025900Z-LVEC",
+          "summary": "LVEC",
+          "dtstart": "20210614",
+          "dtend": "20210615",
+          "description": "",
+          "transp": "TRANSPARENT"
+        },
+        {
+          "dtstamp": "20210617T144854Z",
+          "uid": "20210615T033000Z-20210615T025900Z-LVEC",
+          "summary": "LVEC",
+          "dtstart": "20210615",
+          "dtend": "20210616",
+          "description": "",
+          "transp": "TRANSPARENT"
+        },
+        {
+          "dtstamp": "20210617T144854Z",
+          "uid": "20210616T033000Z-20210616T025900Z-LVEC",
+          "summary": "LVEC",
+          "dtstart": "20210616",
+          "dtend": "20210617",
+          "description": "",
+          "transp": "TRANSPARENT"
+        },
+        {
+          "dtstamp": "20210617T144854Z",
+          "uid": "20210617T033000Z-20210617T025900Z-LVEC",
+          "summary": "LVEC",
+          "dtstart": "20210617",
+          "dtend": "20210618",
+          "description": "",
+          "transp": "TRANSPARENT"
+        },
+        {
+          "dtstamp": "20210617T144854Z",
+          "uid": "20210618T134000Z-20210618T164000Z-FLD",
+          "summary": "Flight Day",
+          "dtstart": "20210618T134000Z",
+          "dtend": "20210618T164000Z",
+          "transp": "TRANSPARENT",
+          "location": "Margin FDP: 09:15\\nActual FDP: 02:30\\nMax FDP: 11:45\\nMargin CAO DP: 07:30\\n\\nGeen alcohol na: 05:40 (NL)"
+        },
+        {
+          "dtstamp": "20210617T144854Z",
+          "uid": "20210618T144500Z-20210618T161000Z-KL1203",
+          "summary": "KL1203 AMS-SVG",
+          "dtstart": "20210618T144500Z",
+          "dtend": "20210618T161000Z",
+          "location": "E190",
+          "transp": "TRANSPARENT"
+        },
+        {
+          "dtstamp": "20210617T144854Z",
+          "uid": "20210618T164000Z-20210619T032900Z-Hotel",
+          "summary": "Hotel SVG",
+          "dtstart": "20210618T164000Z",
+          "dtend": "20210619T033000Z",
+          "url": "https://www.google.com/maps/search/?api=1&query=Clarion+Hotel+Stavanger%2C+Stavanger",
+          "transp": "TRANSPARENT",
+          "location": "Margin FTL: 01:25\\nMargin CAO: 00:15\\n\\nLunch:       208.70 NOK (20.29 EUR)\\nDinner:      540.01 NOK (52.50 EUR)\\nSundries:  374.57 NOK (36.41 EUR)\\n\\n1 NOK = 0.09721 EUR (19-06-2021)\\n"
+        },
+        {
+          "dtstamp": "20210617T144854Z",
+          "uid": "20210619T033000Z-20210619T035500Z-Pickup",
+          "summary": "Taxi",
+          "dtstart": "20210619T033000Z",
+          "dtend": "20210619T035500Z",
+          "transp": "TRANSPARENT"
+        },
+        {
+          "dtstamp": "20210617T144854Z",
+          "uid": "20210619T035500Z-20210619T100000Z-FLD",
+          "summary": "Flight Day",
+          "dtstart": "20210619T035500Z",
+          "dtend": "20210619T100000Z",
+          "transp": "TRANSPARENT",
+          "location": "Margin FDP: 07:10\\nActual FDP: 05:35\\nMax FDP: 12:45\\nMargin CAO DP: 04:25\\n\\nGeen alcohol na: 19:55 (NL)"
+        },
+        {
+          "dtstamp": "20210617T144854Z",
+          "uid": "20210619T044000Z-20210619T061500Z-KL1196",
+          "summary": "KL1196 SVG-AMS",
+          "dtstart": "20210619T044000Z",
+          "dtend": "20210619T061500Z",
+          "location": "E190",
+          "transp": "TRANSPARENT"
+        },
+        {
+          "dtstamp": "20210617T144854Z",
+          "uid": "20210619T074000Z-20210619T093000Z-KL1641",
+          "summary": "KL1641 AMS-FLR",
+          "dtstart": "20210619T074000Z",
+          "dtend": "20210619T093000Z",
+          "location": "E190",
+          "transp": "TRANSPARENT"
+        },
+        {
+          "dtstamp": "20210617T144854Z",
+          "uid": "20210619T100000Z-20210620T031900Z-Hotel",
+          "summary": "Hotel FLR",
+          "dtstart": "20210619T100000Z",
+          "dtend": "20210620T032000Z",
+          "url": "https://www.google.com/maps/search/?api=1&query=NH+Firenze%2C+Florence",
+          "transp": "TRANSPARENT",
+          "location": "Margin FTL: 07:50\\nMargin CAO: 06:40\\n\\nLunch:       10.50 EUR \\nDinner:      26.58 EUR \\nSundries:  23.26 EUR \\n"
+        },
+        {
+          "dtstamp": "20210617T144854Z",
+          "uid": "20210620T032000Z-20210620T034000Z-Pickup",
+          "summary": "Taxi",
+          "dtstart": "20210620T032000Z",
+          "dtend": "20210620T034000Z",
+          "transp": "TRANSPARENT"
+        },
+        {
+          "dtstamp": "20210617T144854Z",
+          "uid": "20210620T034000Z-20210620T092500Z-FLD",
+          "summary": "Flight Day",
+          "dtstart": "20210620T034000Z",
+          "dtend": "20210620T092500Z",
+          "transp": "TRANSPARENT",
+          "location": "Margin FDP: 07:15\\nActual FDP: 05:15\\nMax FDP: 12:30\\nMargin CAO DP: 04:45\\n\\nGeen alcohol na: 19:40 (NL)"
+        },
+        {
+          "dtstamp": "20210617T144854Z",
+          "uid": "20210620T043000Z-20210620T064000Z-KL1638",
+          "summary": "KL1638 FLR-AMS",
+          "dtstart": "20210620T043000Z",
+          "dtend": "20210620T064000Z",
+          "location": "E190",
+          "transp": "TRANSPARENT"
+        },
+        {
+          "dtstamp": "20210617T144854Z",
+          "uid": "20210620T072000Z-20210620T085500Z-KL1413",
+          "summary": "KL1413 AMS-LYS",
+          "dtstart": "20210620T072000Z",
+          "dtend": "20210620T085500Z",
+          "location": "E190",
+          "transp": "TRANSPARENT"
+        },
+        {
+          "dtstamp": "20210617T144854Z",
+          "uid": "20210620T092500Z-20210621T025900Z-Hotel",
+          "summary": "Hotel LYS",
+          "dtstart": "20210620T092500Z",
+          "dtend": "20210621T030000Z",
+          "url": "https://www.google.com/maps/search/?api=1&query=Crown+Plaza+Lyon+Cite+Intern.%2C+Lyon",
+          "transp": "TRANSPARENT",
+          "location": "Margin FTL: 08:15\\nMargin CAO: 07:05\\n\\nLunch:       14.92 EUR \\nDinner:      29.68 EUR \\nSundries:  31.06 EUR \\n"
+        },
+        {
+          "dtstamp": "20210617T144854Z",
+          "uid": "20210621T030000Z-20210621T033000Z-Pickup",
+          "summary": "Taxi",
+          "dtstart": "20210621T030000Z",
+          "dtend": "20210621T033000Z",
+          "transp": "TRANSPARENT"
+        },
+        {
+          "dtstamp": "20210617T144854Z",
+          "uid": "20210621T033000Z-20210621T063500Z-FLD",
+          "summary": "Flight Day",
+          "dtstart": "20210621T033000Z",
+          "dtend": "20210621T063500Z",
+          "transp": "TRANSPARENT",
+          "location": "Margin FDP: 09:55\\nActual FDP: 02:35\\nMax FDP: 12:30\\nMargin CAO DP: 07:25\\n\\nGeen alcohol na: 19:30 (NL)"
+        },
+        {
+          "dtstamp": "20210617T144854Z",
+          "uid": "20210621T041500Z-20210621T055000Z-KL1412",
+          "summary": "KL1412 LYS-AMS",
+          "dtstart": "20210621T041500Z",
+          "dtend": "20210621T055000Z",
+          "location": "E190",
+          "transp": "TRANSPARENT"
+        },
+        {
+          "dtstamp": "20210617T144854Z",
+          "uid": "20210622T054500Z-20210622T121000Z-FLD",
+          "summary": "Flight Day",
+          "dtstart": "20210622T054500Z",
+          "dtend": "20210622T121000Z",
+          "transp": "TRANSPARENT",
+          "location": "Margin FDP: 07:05\\nActual FDP: 05:55\\nMax FDP: 13:00\\nMargin CAO DP: 05:35\\n\\nGeen alcohol na: 21:45 (NL)"
+        },
+        {
+          "dtstamp": "20210617T144854Z",
+          "uid": "20210622T065000Z-20210622T085000Z-KL1973",
+          "summary": "KL1973 AMS-BUD",
+          "dtstart": "20210622T065000Z",
+          "dtend": "20210622T085000Z",
+          "location": "E190",
+          "transp": "TRANSPARENT"
+        },
+        {
+          "dtstamp": "20210617T144854Z",
+          "uid": "20210622T093500Z-20210622T114000Z-KL1974",
+          "summary": "KL1974 BUD-AMS",
+          "dtstart": "20210622T093500Z",
+          "dtend": "20210622T114000Z",
+          "location": "E190",
+          "transp": "TRANSPARENT"
+        },
+        {
+          "dtstamp": "20210617T144854Z",
+          "uid": "20210623T061500Z-20210623T115000Z-FLD",
+          "summary": "Flight Day",
+          "dtstart": "20210623T061500Z",
+          "dtend": "20210623T115000Z",
+          "transp": "TRANSPARENT",
+          "location": "Margin FDP: 07:55\\nActual FDP: 05:05\\nMax FDP: 13:00\\nMargin CAO DP: 06:25\\n\\nGeen alcohol na: 22:15 (NL)"
+        },
+        {
+          "dtstamp": "20210617T144854Z",
+          "uid": "20210623T072000Z-20210623T085500Z-DH/KL1413",
+          "summary": "DH/KL1413 AMS-LYS",
+          "dtstart": "20210623T072000Z",
+          "dtend": "20210623T085500Z",
+          "location": "",
+          "transp": "TRANSPARENT"
+        },
+        {
+          "dtstamp": "20210617T144854Z",
+          "uid": "20210623T094000Z-20210623T112000Z-KL1414",
+          "summary": "KL1414 LYS-AMS",
+          "dtstart": "20210623T094000Z",
+          "dtend": "20210623T112000Z",
+          "location": "E190",
+          "transp": "TRANSPARENT"
+        },
+        {
+          "dtstamp": "20210617T144854Z",
+          "uid": "20210624T033000Z-20210624T025900Z-LVEC",
+          "summary": "LVEC",
+          "dtstart": "20210624",
+          "dtend": "20210625",
+          "description": "",
+          "transp": "TRANSPARENT"
+        },
+        {
+          "dtstamp": "20210617T144854Z",
+          "uid": "20210625T033000Z-20210625T025900Z-LVEC",
+          "summary": "LVEC",
+          "dtstart": "20210625",
+          "dtend": "20210626",
+          "description": "",
+          "transp": "TRANSPARENT"
+        },
+        {
+          "dtstamp": "20210617T144854Z",
+          "uid": "20210626T033000Z-20210626T025900Z-LVEC",
+          "summary": "LVEC",
+          "dtstart": "20210626",
+          "dtend": "20210627",
+          "description": "",
+          "transp": "TRANSPARENT"
+        },
+        {
+          "dtstamp": "20210617T144854Z",
+          "uid": "20210627T033000Z-20210627T025900Z-LVEC",
+          "summary": "LVEC",
+          "dtstart": "20210627",
+          "dtend": "20210628",
+          "description": "",
+          "transp": "TRANSPARENT"
+        },
+        {
+          "dtstamp": "20210617T144854Z",
+          "uid": "20210628T033000Z-20210628T025900Z-LVEC",
+          "summary": "LVEC",
+          "dtstart": "20210628",
+          "dtend": "20210629",
+          "description": "",
+          "transp": "TRANSPARENT"
+        },
+        {
+          "dtstamp": "20210617T144854Z",
+          "uid": "20210629T033000Z-20210629T025900Z-LVEC",
+          "summary": "LVEC",
+          "dtstart": "20210629",
+          "dtend": "20210630",
+          "description": "",
+          "transp": "TRANSPARENT"
+        },
+        {
+          "dtstamp": "20210617T144854Z",
+          "uid": "20210630T134000Z-20210630T220000Z-FLD",
+          "summary": "Flight Day",
+          "dtstart": "20210630T134000Z",
+          "dtend": "20210630T220000Z",
+          "transp": "TRANSPARENT",
+          "location": "Margin FDP: 03:25\\nActual FDP: 07:50\\nMax FDP: 11:15\\nMargin CAO DP: 02:10\\n\\nGeen alcohol na: 05:40 (NL)"
+        },
+        {
+          "dtstamp": "20210617T144854Z",
+          "uid": "20210630T150000Z-20210630T162000Z-KL1133",
+          "summary": "KL1133 AMS-CPH",
+          "dtstart": "20210630T150000Z",
+          "dtend": "20210630T162000Z",
+          "location": "E190",
+          "transp": "TRANSPARENT"
+        },
+        {
+          "dtstamp": "20210617T144854Z",
+          "uid": "20210630T171000Z-20210630T183500Z-KL1134",
+          "summary": "KL1134 CPH-AMS",
+          "dtstart": "20210630T171000Z",
+          "dtend": "20210630T183500Z",
+          "location": "E190",
+          "transp": "TRANSPARENT"
+        },
+        {
+          "dtstamp": "20210617T144854Z",
+          "uid": "20210630T201500Z-20210630T213000Z-KL965",
+          "summary": "KL965 AMS-NCL",
+          "dtstart": "20210630T201500Z",
+          "dtend": "20210630T213000Z",
+          "location": "E190",
+          "transp": "TRANSPARENT"
+        },
+        {
+          "dtstamp": "20210617T144854Z",
+          "uid": "20210630T220000Z-20210701T085900Z-Hotel",
+          "summary": "Hotel NCL",
+          "dtstart": "20210630T220000Z",
+          "dtend": "20210701T090000Z",
+          "url": "https://www.google.com/maps/search/?api=1&query=Marriott+MetroCentre%2C+Newcastle",
+          "transp": "TRANSPARENT",
+          "location": "Margin FTL: 01:35\\nMargin CAO: 00:25\\n\\nLunch:       14.03 GBP (16.33 EUR)\\nDinner:      29.23 GBP (34.03 EUR)\\nSundries:  21.76 GBP (25.34 EUR)\\n\\n1 GBP = 1.16412 EUR (20-06-2021)\\n"
+        },
+        {
+          "dtstamp": "20210617T144854Z",
+          "uid": "20210701T090000Z-20210701T092500Z-Pickup",
+          "summary": "Taxi",
+          "dtstart": "20210701T090000Z",
+          "dtend": "20210701T092500Z",
+          "transp": "TRANSPARENT"
+        },
+        {
+          "dtstamp": "20210617T144854Z",
+          "uid": "20210701T092500Z-20210701T205000Z-FLD",
+          "summary": "Flight Day",
+          "dtstart": "20210701T092500Z",
+          "dtend": "20210701T205000Z",
+          "transp": "TRANSPARENT",
+          "location": "Margin FDP: 01:05\\nActual FDP: 10:55\\nMax FDP: 12:00\\nMargin CAO DP: 00:05\\n\\nGeen alcohol na: 01:25 (NL)"
+        },
+        {
+          "dtstamp": "20210617T144854Z",
+          "uid": "20210701T101500Z-20210701T113500Z-KL954",
+          "summary": "KL954 NCL-AMS",
+          "dtstart": "20210701T101500Z",
+          "dtend": "20210701T113500Z",
+          "location": "E190",
+          "transp": "TRANSPARENT"
+        },
+        {
+          "dtstamp": "20210617T144854Z",
+          "uid": "20210701T123500Z-20210701T142500Z-KL1407",
+          "summary": "KL1407 AMS-MPL",
+          "dtstart": "20210701T123500Z",
+          "dtend": "20210701T142500Z",
+          "location": "E190",
+          "transp": "TRANSPARENT"
+        },
+        {
+          "dtstamp": "20210617T144854Z",
+          "uid": "20210701T151000Z-20210701T171500Z-KL1408",
+          "summary": "KL1408 MPL-AMS",
+          "dtstart": "20210701T151000Z",
+          "dtend": "20210701T171500Z",
+          "location": "E190",
+          "transp": "TRANSPARENT"
+        },
+        {
+          "dtstamp": "20210617T144854Z",
+          "uid": "20210701T183500Z-20210701T202000Z-KL1849",
+          "summary": "KL1849 AMS-VIE",
+          "dtstart": "20210701T183500Z",
+          "dtend": "20210701T202000Z",
+          "location": "E190",
+          "transp": "TRANSPARENT"
+        },
+        {
+          "dtstamp": "20210617T144854Z",
+          "uid": "20210701T205000Z-20210702T143400Z-Hotel",
+          "summary": "Hotel VIE",
+          "dtstart": "20210701T205000Z",
+          "dtend": "20210702T143500Z",
+          "url": "https://www.google.com/maps/search/?api=1&query=Vienna+Marriott+Hotel%2C+Vienna",
+          "transp": "TRANSPARENT",
+          "location": "Margin FTL: 07:10\\nMargin CAO: 07:15\\n\\nLunch:       11.59 EUR \\nDinner:      23.42 EUR \\nSundries:  29.49 EUR \\n"
+        },
+        {
+          "dtstamp": "20210617T144854Z",
+          "uid": "20210702T143500Z-20210702T150500Z-Pickup",
+          "summary": "Taxi",
+          "dtstart": "20210702T143500Z",
+          "dtend": "20210702T150500Z",
+          "transp": "TRANSPARENT"
+        },
+        {
+          "dtstamp": "20210617T144854Z",
+          "uid": "20210702T150500Z-20210702T202000Z-FLD",
+          "summary": "Flight Day",
+          "dtstart": "20210702T150500Z",
+          "dtend": "20210702T202000Z",
+          "transp": "TRANSPARENT",
+          "location": "Margin FDP: 06:15\\nActual FDP: 04:45\\nMax FDP: 11:00\\nMargin CAO DP: 04:30\\n\\nGeen alcohol na: 07:05 (NL)"
+        },
+        {
+          "dtstamp": "20210617T144854Z",
+          "uid": "20210702T155000Z-20210702T173500Z-KL1844",
+          "summary": "KL1844 VIE-AMS",
+          "dtstart": "20210702T155000Z",
+          "dtend": "20210702T173500Z",
+          "location": "E190",
+          "transp": "TRANSPARENT"
+        },
+        {
+          "dtstamp": "20210617T144854Z",
+          "uid": "20210702T184500Z-20210702T195000Z-KL1789",
+          "summary": "KL1789 AMS-HAM",
+          "dtstart": "20210702T184500Z",
+          "dtend": "20210702T195000Z",
+          "location": "E190",
+          "transp": "TRANSPARENT"
+        },
+        {
+          "dtstamp": "20210617T144854Z",
+          "uid": "20210702T202000Z-20210703T114400Z-Hotel",
+          "summary": "Hotel HAM",
+          "dtstart": "20210702T202000Z",
+          "dtend": "20210703T114500Z",
+          "url": "https://www.google.com/maps/search/?api=1&query=NH+Collection+Hamburg+City%2C+Hamburg",
+          "transp": "TRANSPARENT",
+          "location": "Margin FTL: 06:05\\nMargin CAO: 04:55\\n\\nLunch:       13.09 EUR \\nDinner:      29.55 EUR \\nSundries:  27.56 EUR \\n"
+        },
+        {
+          "dtstamp": "20210617T144854Z",
+          "uid": "20210703T114500Z-20210703T121500Z-Pickup",
+          "summary": "Taxi",
+          "dtstart": "20210703T114500Z",
+          "dtend": "20210703T121500Z",
+          "transp": "TRANSPARENT"
+        },
+        {
+          "dtstamp": "20210617T144854Z",
+          "uid": "20210703T121500Z-20210703T144000Z-FLD",
+          "summary": "Flight Day",
+          "dtstart": "20210703T121500Z",
+          "dtend": "20210703T144000Z",
+          "transp": "TRANSPARENT",
+          "location": "Margin FDP: 10:35\\nActual FDP: 01:55\\nMax FDP: 12:30\\nMargin CAO DP: 08:50\\n\\nGeen alcohol na: 04:15 (NL)"
+        },
+        {
+          "dtstamp": "20210617T144854Z",
+          "uid": "20210703T130000Z-20210703T141000Z-KL1782",
+          "summary": "KL1782 HAM-AMS",
+          "dtstart": "20210703T130000Z",
+          "dtend": "20210703T141000Z",
+          "location": "E190",
+          "transp": "TRANSPARENT"
+        },
+        {
+          "dtstamp": "20210617T144854Z",
+          "uid": "20210704T033000Z-20210704T025900Z-LVEC",
+          "summary": "LVEC",
+          "dtstart": "20210704",
+          "dtend": "20210705",
+          "description": "",
+          "transp": "TRANSPARENT"
+        },
+        {
+          "dtstamp": "20210617T144854Z",
+          "uid": "20210705T033000Z-20210705T025900Z-LVEC",
+          "summary": "LVEC",
+          "dtstart": "20210705",
+          "dtend": "20210706",
+          "description": "",
+          "transp": "TRANSPARENT"
+        },
+        {
+          "dtstamp": "20210617T144854Z",
+          "uid": "20210706T033000Z-20210706T025900Z-LVEC",
+          "summary": "LVEC",
+          "dtstart": "20210706",
+          "dtend": "20210707",
+          "description": "",
+          "transp": "TRANSPARENT"
+        },
+        {
+          "dtstamp": "20210617T144854Z",
+          "uid": "20210707T033000Z-20210707T025900Z-LVEC",
+          "summary": "LVEC",
+          "dtstart": "20210707",
+          "dtend": "20210708",
+          "description": "",
+          "transp": "TRANSPARENT"
+        },
+        {
+          "dtstamp": "20210617T144854Z",
+          "uid": "20210708T090000Z-20210708T144000Z-FLD",
+          "summary": "Flight Day",
+          "dtstart": "20210708T090000Z",
+          "dtend": "20210708T144000Z",
+          "transp": "TRANSPARENT",
+          "location": "Margin FDP: 07:50\\nActual FDP: 05:10\\nMax FDP: 13:00\\nMargin CAO DP: 06:20\\n\\nGeen alcohol na: 01:00 (NL)"
+        },
+        {
+          "dtstamp": "20210617T144854Z",
+          "uid": "20210708T100500Z-20210708T115500Z-KL1085",
+          "summary": "KL1085 AMS-ORK",
+          "dtstart": "20210708T100500Z",
+          "dtend": "20210708T115500Z",
+          "location": "E175",
+          "transp": "TRANSPARENT"
+        },
+        {
+          "dtstamp": "20210617T144854Z",
+          "uid": "20210708T122500Z-20210708T141000Z-KL1086",
+          "summary": "KL1086 ORK-AMS",
+          "dtstart": "20210708T122500Z",
+          "dtend": "20210708T141000Z",
+          "location": "E175",
+          "transp": "TRANSPARENT"
+        },
+        {
+          "dtstamp": "20210617T144854Z",
+          "uid": "20210709T034500Z-20210709T124500Z-FLD",
+          "summary": "Flight Day",
+          "dtstart": "20210709T034500Z",
+          "dtend": "20210709T124500Z",
+          "transp": "TRANSPARENT",
+          "location": "Margin FDP: 03:45\\nActual FDP: 08:30\\nMax FDP: 12:15\\nMargin CAO DP: 01:30\\n\\nGeen alcohol na: 19:45 (NL)"
+        },
+        {
+          "dtstamp": "20210617T144854Z",
+          "uid": "20210709T045000Z-20210709T065000Z-KL1105",
+          "summary": "KL1105 AMS-ARN",
+          "dtstart": "20210709T045000Z",
+          "dtend": "20210709T065000Z",
+          "location": "E190",
+          "transp": "TRANSPARENT"
+        },
+        {
+          "dtstamp": "20210617T144854Z",
+          "uid": "20210709T073500Z-20210709T093500Z-KL1106",
+          "summary": "KL1106 ARN-AMS",
+          "dtstart": "20210709T073500Z",
+          "dtend": "20210709T093500Z",
+          "location": "E190",
+          "transp": "TRANSPARENT"
+        },
+        {
+          "dtstamp": "20210617T144854Z",
+          "uid": "20210709T111000Z-20210709T121500Z-KL1781",
+          "summary": "KL1781 AMS-HAM",
+          "dtstart": "20210709T111000Z",
+          "dtend": "20210709T121500Z",
+          "location": "E190",
+          "transp": "TRANSPARENT"
+        },
+        {
+          "dtstamp": "20210617T144854Z",
+          "uid": "20210709T124500Z-20210710T025400Z-Hotel",
+          "summary": "Hotel HAM",
+          "dtstart": "20210709T124500Z",
+          "dtend": "20210710T025500Z",
+          "url": "https://www.google.com/maps/search/?api=1&query=NH+Collection+Hamburg+City%2C+Hamburg",
+          "transp": "TRANSPARENT",
+          "location": "Margin FTL: 04:50\\nMargin CAO: 03:40\\n\\nLunch:       13.09 EUR \\nDinner:      29.55 EUR \\nSundries:  27.56 EUR \\n"
+        },
+        {
+          "dtstamp": "20210617T144854Z",
+          "uid": "20210710T025500Z-20210710T032500Z-Pickup",
+          "summary": "Taxi",
+          "dtstart": "20210710T025500Z",
+          "dtend": "20210710T032500Z",
+          "transp": "TRANSPARENT"
+        },
+        {
+          "dtstamp": "20210617T144854Z",
+          "uid": "20210710T032500Z-20210710T093000Z-FLD",
+          "summary": "Flight Day",
+          "dtstart": "20210710T032500Z",
+          "dtend": "20210710T093000Z",
+          "transp": "TRANSPARENT",
+          "location": "Margin FDP: 06:40\\nActual FDP: 05:35\\nMax FDP: 12:15\\nMargin CAO DP: 03:55\\n\\nGeen alcohol na: 19:25 (NL)"
+        },
+        {
+          "dtstamp": "20210617T144854Z",
+          "uid": "20210710T041000Z-20210710T051500Z-KL1776",
+          "summary": "KL1776 HAM-AMS",
+          "dtstart": "20210710T041000Z",
+          "dtend": "20210710T051500Z",
+          "location": "E190",
+          "transp": "TRANSPARENT"
+        },
+        {
+          "dtstamp": "20210617T144854Z",
+          "uid": "20210710T075000Z-20210710T090000Z-KL1765",
+          "summary": "KL1765 AMS-FRA",
+          "dtstart": "20210710T075000Z",
+          "dtend": "20210710T090000Z",
+          "location": "E175",
+          "transp": "TRANSPARENT"
+        },
+        {
+          "dtstamp": "20210617T144854Z",
+          "uid": "20210710T093000Z-20210711T034400Z-Hotel",
+          "summary": "Hotel FRA",
+          "dtstart": "20210710T093000Z",
+          "dtend": "20210711T034500Z",
+          "url": "https://www.google.com/maps/search/?api=1&query=Dorint+Pallas+Wiesbaden%2C+Frankfurt",
+          "transp": "TRANSPARENT",
+          "location": "Margin FTL: 08:55\\nMargin CAO: 07:45\\n\\nLunch:       13.42 EUR \\nDinner:      30.56 EUR \\nSundries:  29.48 EUR \\n"
+        },
+        {
+          "dtstamp": "20210617T144854Z",
+          "uid": "20210711T034500Z-20210711T041500Z-Pickup",
+          "summary": "Taxi",
+          "dtstart": "20210711T034500Z",
+          "dtend": "20210711T041500Z",
+          "transp": "TRANSPARENT"
+        },
+        {
+          "dtstamp": "20210617T144854Z",
+          "uid": "20210711T041500Z-20210711T143500Z-FLD",
+          "summary": "Flight Day",
+          "dtstart": "20210711T041500Z",
+          "dtend": "20210711T143500Z",
+          "transp": "TRANSPARENT",
+          "location": "Margin FDP: 02:40\\nActual FDP: 09:50\\nMax FDP: 12:30\\nMargin CAO DP: 00:40\\n\\nGeen alcohol na: 20:15 (NL)"
+        },
+        {
+          "dtstamp": "20210617T144854Z",
+          "uid": "20210711T050000Z-20210711T061000Z-KL1762",
+          "summary": "KL1762 FRA-AMS",
+          "dtstart": "20210711T050000Z",
+          "dtend": "20210711T061000Z",
+          "location": "E190",
+          "transp": "TRANSPARENT"
+        },
+        {
+          "dtstamp": "20210617T144854Z",
+          "uid": "20210711T080500Z-20210711T103500Z-KL1803",
+          "summary": "KL1803 AMS-DBV",
+          "dtstart": "20210711T080500Z",
+          "dtend": "20210711T103500Z",
+          "location": "E190",
+          "transp": "TRANSPARENT"
+        },
+        {
+          "dtstamp": "20210617T144854Z",
+          "uid": "20210711T112500Z-20210711T140500Z-KL1804",
+          "summary": "KL1804 DBV-AMS",
+          "dtstart": "20210711T112500Z",
+          "dtend": "20210711T140500Z",
+          "location": "E190",
+          "transp": "TRANSPARENT"
+        },
+        {
+          "dtstamp": "20210617T144854Z",
+          "uid": "20210712T033000Z-20210712T025900Z-LVEC",
+          "summary": "LVEC",
+          "dtstart": "20210712",
+          "dtend": "20210713",
+          "description": "",
+          "transp": "TRANSPARENT"
+        },
+        {
+          "dtstamp": "20210617T144854Z",
+          "uid": "20210713T033000Z-20210713T025900Z-LVEC",
+          "summary": "LVEC",
+          "dtstart": "20210713",
+          "dtend": "20210714",
+          "description": "",
+          "transp": "TRANSPARENT"
+        },
+        {
+          "dtstamp": "20210617T144854Z",
+          "uid": "20210714T033000Z-20210714T025900Z-LVEC",
+          "summary": "LVEC",
+          "dtstart": "20210714",
+          "dtend": "20210715",
+          "description": "",
+          "transp": "TRANSPARENT"
+        },
+        {
+          "dtstamp": "20210617T144854Z",
+          "uid": "20210715T033000Z-20210715T025900Z-LVEC",
+          "summary": "LVEC",
+          "dtstart": "20210715",
+          "dtend": "20210716",
+          "description": "",
+          "transp": "TRANSPARENT"
+        },
+        {
+          "dtstamp": "20210617T144854Z",
+          "uid": "20210716T120000Z-20210716T204500Z-FLD",
+          "summary": "Flight Day",
+          "dtstart": "20210716T120000Z",
+          "dtend": "20210716T204500Z",
+          "transp": "TRANSPARENT",
+          "location": "Margin FDP: 03:45\\nActual FDP: 08:15\\nMax FDP: 12:00\\nMargin CAO DP: 02:30\\n\\nGeen alcohol na: 04:00 (NL)"
+        },
+        {
+          "dtstamp": "20210617T144854Z",
+          "uid": "20210716T130500Z-20210716T145500Z-KL1591",
+          "summary": "KL1591 AMS-BLQ",
+          "dtstart": "20210716T130500Z",
+          "dtend": "20210716T145500Z",
+          "location": "E190",
+          "transp": "TRANSPARENT"
+        },
+        {
+          "dtstamp": "20210617T144854Z",
+          "uid": "20210716T154000Z-20210716T175000Z-KL1592",
+          "summary": "KL1592 BLQ-AMS",
+          "dtstart": "20210716T154000Z",
+          "dtend": "20210716T175000Z",
+          "location": "E190",
+          "transp": "TRANSPARENT"
+        },
+        {
+          "dtstamp": "20210617T144854Z",
+          "uid": "20210716T185000Z-20210716T201500Z-KL1937",
+          "summary": "KL1937 AMS-GVA",
+          "dtstart": "20210716T185000Z",
+          "dtend": "20210716T201500Z",
+          "location": "E190",
+          "transp": "TRANSPARENT"
+        },
+        {
+          "dtstamp": "20210617T144854Z",
+          "uid": "20210716T204500Z-20210717T142400Z-Hotel",
+          "summary": "Hotel GVA",
+          "dtstart": "20210716T204500Z",
+          "dtend": "20210717T142500Z",
+          "url": "https://www.google.com/maps/search/?api=1&query=Movenpick+Hotel%2C+Geneva",
+          "transp": "TRANSPARENT",
+          "location": "Margin FTL: 07:55\\nMargin CAO: 06:45\\n\\nLunch:       25.30 CHF (23.13 EUR)\\nDinner:      54.83 CHF (50.12 EUR)\\nSundries:  34.89 CHF (31.89 EUR)\\n\\n1 CHF = 0.91411 EUR (20-06-2021)\\n"
+        },
+        {
+          "dtstamp": "20210617T144854Z",
+          "uid": "20210717T142500Z-20210717T143000Z-Pickup",
+          "summary": "Taxi",
+          "dtstart": "20210717T142500Z",
+          "dtend": "20210717T143000Z",
+          "transp": "TRANSPARENT"
+        },
+        {
+          "dtstamp": "20210617T144854Z",
+          "uid": "20210717T143000Z-20210717T201500Z-FLD",
+          "summary": "Flight Day",
+          "dtstart": "20210717T143000Z",
+          "dtend": "20210717T201500Z",
+          "transp": "TRANSPARENT",
+          "location": "Margin FDP: 06:00\\nActual FDP: 05:15\\nMax FDP: 11:15\\nMargin CAO DP: 04:15\\n\\nGeen alcohol na: 06:30 (NL)"
+        },
+        {
+          "dtstamp": "20210617T144854Z",
+          "uid": "20210717T151500Z-20210717T165500Z-KL1932",
+          "summary": "KL1932 GVA-AMS",
+          "dtstart": "20210717T151500Z",
+          "dtend": "20210717T165500Z",
+          "location": "E190",
+          "transp": "TRANSPARENT"
+        },
+        {
+          "dtstamp": "20210617T144854Z",
+          "uid": "20210717T183000Z-20210717T194500Z-KL1991",
+          "summary": "KL1991 AMS-BSL",
+          "dtstart": "20210717T183000Z",
+          "dtend": "20210717T194500Z",
+          "location": "E175",
+          "transp": "TRANSPARENT"
+        },
+        {
+          "dtstamp": "20210617T144854Z",
+          "uid": "20210717T201500Z-20210718T082900Z-Hotel",
+          "summary": "Hotel BSL",
+          "dtstart": "20210717T201500Z",
+          "dtend": "20210718T083000Z",
+          "url": "https://www.google.com/maps/search/?api=1&query=Courtyard+by+Marriott+Hotel%2C+Basel",
+          "transp": "TRANSPARENT",
+          "location": "Margin FTL: 02:50\\nMargin CAO: 01:40\\n\\nLunch:       22.52 CHF (20.58 EUR)\\nDinner:      46.96 CHF (42.93 EUR)\\nSundries:  36.04 CHF (32.94 EUR)\\n\\n1 CHF = 0.91411 EUR (20-06-2021)\\n"
+        },
+        {
+          "dtstamp": "20210617T144854Z",
+          "uid": "20210718T083000Z-20210718T085500Z-Pickup",
+          "summary": "Taxi",
+          "dtstart": "20210718T083000Z",
+          "dtend": "20210718T085500Z",
+          "transp": "TRANSPARENT"
+        },
+        {
+          "dtstamp": "20210617T144854Z",
+          "uid": "20210718T085500Z-20210718T150000Z-FLD",
+          "summary": "Flight Day",
+          "dtstart": "20210718T085500Z",
+          "dtend": "20210718T150000Z",
+          "transp": "TRANSPARENT",
+          "location": "Margin FDP: 07:25\\nActual FDP: 05:35\\nMax FDP: 13:00\\nMargin CAO DP: 05:55\\n\\nGeen alcohol na: 00:55 (NL)"
+        },
+        {
+          "dtstamp": "20210617T144854Z",
+          "uid": "20210718T094500Z-20210718T112500Z-KL1988",
+          "summary": "KL1988 BSL-AMS",
+          "dtstart": "20210718T094500Z",
+          "dtend": "20210718T112500Z",
+          "location": "E175",
+          "transp": "TRANSPARENT"
+        },
+        {
+          "dtstamp": "20210617T144854Z",
+          "uid": "20210718T130000Z-20210718T143000Z-KL1931",
+          "summary": "KL1931 AMS-GVA",
+          "dtstart": "20210718T130000Z",
+          "dtend": "20210718T143000Z",
+          "location": "E190",
           "transp": "TRANSPARENT"
         }
       ]

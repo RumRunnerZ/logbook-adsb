@@ -27,7 +27,7 @@ export default function getICSP() {
 
 
     // Replace ./data.json with your JSON feed
-  return fetch('./rooster-15mei21.json').then(response => {
+  return fetch('./rooster-voorbeeld.json').then(response => {
     //console.log(response);
     return response.json();
   }).then(response => {
