@@ -2,7 +2,7 @@ export default function getFlightData(flight) {
 
   var util = require('util');
   var restclient = require('restler');
-
+/*
   //added myself:
   const cors = require('cors');
   const express = require('express');
@@ -15,7 +15,7 @@ export default function getFlightData(flight) {
   const corsOptions = {
       origin: "http://localhost:3000"
   };
-
+*/
 
 
 
@@ -27,8 +27,9 @@ export default function getFlightData(flight) {
   var results = [];
   var i = 0;
 
-
+  /*
   app.get('/getData', cors(corsOptions), async (req, res) => {
+    */
 
 
     restclient.get(fxml_url + 'FlightInfoStatus', {
@@ -81,9 +82,10 @@ export default function getFlightData(flight) {
           return results;
       }
     });
-  });
+
+  /*});
 
   app.listen(PORT, () => {
       console.log(`Example app listening at http://localhost:${PORT}`);
-  });
+  });*/
 }
