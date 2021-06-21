@@ -41,8 +41,8 @@ export default function getICSP() {
       MM = '0' + MM;
     }
     var YY = new Date().getFullYear();
-    //var date = '' + YY + MM + DD;
-    var date = '20210607';
+    var date = '' + YY + MM + DD;
+    //var date = '20210621';
     //console.log(date);
 
     var events = [];
