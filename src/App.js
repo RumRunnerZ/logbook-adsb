@@ -1,6 +1,7 @@
 import './App.css';
 import React from 'react';
 import getICSP from './js/functions/schedule';
+import getFlightData from './js/functions/getFlightData';
 
 function App() {
 
@@ -16,8 +17,8 @@ function App() {
     });
   }
 
-  function getFlightData(flight) {
-    console.log(flight);
+  function getData(flight) {
+    getFlightData(flight);
   }
 
   function logFlights(){
@@ -26,6 +27,12 @@ function App() {
     console.log(flights[0].flightNumber);
     console.log(flights[1].id);
     console.log(flights[1].flightNumber);
+
+    return fetch('http://localhost:5000/getData').then(response => {
+      return response.json();
+    }).then(response => {
+      console.log(response);
+    });
 
   }
 
@@ -56,7 +63,7 @@ function App() {
         <li key={item.id}>
         <button type="button"
           title={item.flightNumber}
-          onClick={getFlightData.bind(this, item.flightNumber)}>
+          onClick={getData.bind(this, item.flightNumber)}>
           {item.flightNumber} {item.origin} - {item.destination}
         </button>
         </li>

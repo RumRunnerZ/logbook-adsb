@@ -6,6 +6,10 @@
 
 var util = require('util');
 var restclient = require('restler');
+//const cors = require('cors');
+
+//const express = require('express');
+//var restclient = express();
 
 var fxml_url = 'http://flightxml.flightaware.com/json/FlightXML2b/';
 var username = 'mailstef';
@@ -45,10 +49,10 @@ restclient.get(fxml_url + 'Enroute', {
 restclient.get(fxml_url + 'FlightInfoStatus', {
     username: username,
     password: apiKey,
-    query: {ident: 'KLM1474', howMany: 1, offset: 1}
+    query: {ident: 'KLM1994', howMany: 1, offset: 3}
 }).on('success', function(result, response) {
     //util.puts('Aircraft en route to EHAM:');
-    console.log('Flight KLM1474:');
+    console.log('Flight KLM1994:');
     //util.puts(util.inspect(result, true, null));
     var flights = result.FlightInfoStatusResult.flights;
     for (i in flights) {
@@ -57,7 +61,7 @@ restclient.get(fxml_url + 'FlightInfoStatus', {
       console.log(flight.ident + " " + flight.origin + ' - ' + flight.destination + " " + flight.aircrafttype + " " + flight.tailnumber);
       console.log(flight.actual_blockout_time.date + " " + flight.actual_blockout_time.time + " - " + flight.actual_blockin_time.time);
 
-      /*
+
       //let unix_timestamp = 1549312452
       // Create a new JavaScript Date object based on the timestamp
       // multiplied by 1000 so that the argument is in milliseconds, not seconds.
@@ -65,7 +69,7 @@ restclient.get(fxml_url + 'FlightInfoStatus', {
       var dateDep = new Date(flight.actual_departure_time.epoch * 1000);
       var dateArr = new Date(flight.actual_arrival_time.epoch * 1000);
       var dateBI = new Date(flight.actual_blockin_time.epoch * 1000);
-      */
+
 
 
       console.log('--------');
