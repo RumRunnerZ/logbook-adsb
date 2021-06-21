@@ -27,13 +27,13 @@ function App() {
     console.log(flights[0].flightNumber);
     console.log(flights[1].id);
     console.log(flights[1].flightNumber);
-
+/*
     return fetch('http://localhost:5000/getData').then(response => {
       return response.json();
     }).then(response => {
       console.log(response);
     });
-
+*/
   }
 
   return (
