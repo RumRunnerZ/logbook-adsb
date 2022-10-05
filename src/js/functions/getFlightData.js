@@ -20,8 +20,8 @@ export default function getFlightData(flight) {
         password: apiKey,
         query: {ident: flight, howMany: 1, offset: 2}
     }).on('success', function(result, response) {
-        console.log('Flight ' + flight + ' :');
         var flights = result.FlightInfoStatusResult.flights;
+        console.log('Flight ' + flight + ' :');
         for (i in flights) {
           var flight = flights[i];
           console.log(flight.ident + " " + flight.origin + ' - ' + flight.destination + " " + flight.aircrafttype + " " + flight.tailnumber);

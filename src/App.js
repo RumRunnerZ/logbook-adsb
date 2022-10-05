@@ -59,7 +59,7 @@ function App() {
         <p>Flight List: </p>
 
         <ul>
-        {flights.map(item => (
+        {/*flights.map(item => (
         <li key={item.id}>
         <button type="button"
           title={item.flightNumber}
@@ -67,7 +67,7 @@ function App() {
           {item.flightNumber} {item.origin} - {item.destination}
         </button>
         </li>
-        ))}
+      ))*/}
         </ul>
 
 
